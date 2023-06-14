@@ -3,8 +3,9 @@ Audiencia
 
 Estudiantes de doctorado del Instituto de Hidrología de Llanuras, `IHLLA <https://ihlla.conicet.gov.ar/>`_, 
 y de otros centros de investigación o universidades, no necesariamente argentinos, pero relacionados con Hidrología, Sensores Remotos, 
-Simulación Numérica de Recursos Hídricos o Evaluación de Riesgo de Desastres Naturales.  
-Se imparte en castellano, aunque gran parte de la documentación de soporte y links están en inglés.
+Simulación Numérica de Recursos Hídricos o Evaluación de Riesgo de Desastres Naturales en Sistemas de Alerta Temprana.  
+
+Se impartirá en castellano, aunque gran parte de la documentación de soporte y links están en inglés.
 
 Requisitos:
 -----------
