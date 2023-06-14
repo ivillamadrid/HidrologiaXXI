@@ -8,6 +8,9 @@ Simulación Numérica de Recursos Hídricos, Evaluación de Riesgo de Desastres 
 Se impartirá en castellano, aunque gran parte de la documentación de soporte y links están en inglés. Todo el software empleado y los
 accesos a recursos en internet están en abierto.
 
+Objetivos
+---------
+
 Requisitos
 ----------
 Conocimientos básicos de hidrología y programación, aunque se dará un curso previo de inmersión a `Python <https://www.python.org/>`_ 
