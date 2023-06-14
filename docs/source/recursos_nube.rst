@@ -13,6 +13,10 @@ Recursos en la nube
 
 .. _Google Cloud Compute Engine: https://cloud.google.com/
 
-`Large-Sampling Hydrology`_ Subiendo tu cuenca para Hidrología de grandes muestreos en el proyecto CARAVAN
+`Large-Sampling Hydrology`_ Subiendo tu cuenca para Hidrología de grandes muestreos en el proyecto CARAVAN, basado en Google Earth Engine
 
 .. _Large-Sampling Hydrology: https://github.com/kratzert/Caravan/wiki/Extending-Caravan-with-new-basins
+
+`Neural Hydrology`_ Hidrología basada en redes neuronales, artículos y librerías Python.
+
+.. _Neural Hydrology: https://neuralhydrology.github.io/
