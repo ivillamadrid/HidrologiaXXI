@@ -10,7 +10,7 @@ Ejemplo de la Onda-Difusiva (Heat, Hydrodynamics, Ground-Water)
 Modelos enfocados a los datos (Data-Driven)
 -------------------------------------------
 
-Modelos de los propios alumnos
--------------------------------
+Modelos y contribuciones de los propios alumnos
+-----------------------------------------------
 
 
