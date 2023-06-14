@@ -16,4 +16,7 @@ Contenidos
 
    audiencia
    conceptos_0
+   remote_sensing
+   computacion
+   recursos_nube
    
