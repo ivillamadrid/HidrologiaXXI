@@ -1,5 +1,5 @@
-Sensores Remotos elegidos
-=========================
+Sensores Remotos seleccionados
+==============================
 
 Lámina libre y subterráneos
 ---------------------------
@@ -7,8 +7,8 @@ Lámina libre y subterráneos
 UAV(drones)
 -----------
 
-Satelitales
------------
+Misiones Satelitales
+--------------------
 
-GNSS
-----
+Señales GNSS
+------------
