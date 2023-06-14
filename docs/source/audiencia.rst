@@ -6,11 +6,11 @@ y de otros centros de investigación o universidades, no necesariamente argentin
 Simulación Numérica de Recursos Hídricos, Evaluación de Riesgo de Desastres Naturales o Sistemas de Alerta Temprana.  
 
 Se impartirá en castellano, aunque gran parte de la documentación de soporte y links están en inglés. Todo el software empleado y los
-accesos a recursos en la nube son abiertos.
+accesos a recursos en internet están en abierto.
 
 Requisitos
 ----------
-Conocimientos básicos de programación, aunque se dará un curso previo de inmersión a `Python <https://www.python.org/>`_ 
+Conocimientos básicos de hidrología y programación, aunque se dará un curso previo de inmersión a `Python <https://www.python.org/>`_ 
 y `JavaScript de Google-Earth-Engine <https://developers.google.com/earth-engine/tutorials/tutorial_js_01>`_ 
 
 Inicio y duración
