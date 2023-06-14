@@ -1,8 +1,14 @@
 Audiencia
 =========
 
-Estudiantes de doctorado del Instituto de Hidrología de Llanuras (IHLLA), y de otros centros de investigación o universidades (ARG ).
-Se imparte en castellano, aunque gran parte de la documentación de soporte está en inglés.
+Estudiantes de doctorado del Instituto de Hidrología de Llanuras, `IHLLA <https://ihlla.conicet.gov.ar/>`_, 
+y de otros centros de investigación o universidades (ARG únicamente ?).
+Se imparte en castellano, aunque gran parte de la documentación de soporte y links están en inglés.
+
+Requisitos:
+-----------
+Conocimientos básicos de programación, aunque se dará un curso previo de inmersión a `Python <https://www.python.org/>`_ 
+y `JavaScript de Google-Earth-Engine <https://developers.google.com/earth-engine/tutorials/tutorial_js_01>`_ 
 
 Referencia (`Stoker`_, 1957) 
 .. _Stoker: https://doi.org/10.1002/9781118033159 
