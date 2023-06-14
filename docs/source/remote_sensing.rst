@@ -4,8 +4,8 @@ Sensores Remotos seleccionados
 Lámina libre y subterráneos
 ---------------------------
 
-UAV(drones)
------------
+UAV (drones)
+------------
 
 Misiones Satelitales
 --------------------
