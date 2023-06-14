@@ -5,7 +5,8 @@ Estudiantes de doctorado del Instituto de Hidrología de Llanuras, `IHLLA <https
 y de otros centros de investigación o universidades, no necesariamente argentinos, pero relacionados con Hidrología, Sensores Remotos, 
 Simulación Numérica de Recursos Hídricos, Evaluación de Riesgo de Desastres Naturales o Sistemas de Alerta Temprana.  
 
-Se impartirá en castellano, aunque gran parte de la documentación de soporte y links están en inglés.
+Se impartirá en castellano, aunque gran parte de la documentación de soporte y links están en inglés. Todo el software empleado y los
+accesos a recursos en la nube son abiertos.
 
 Requisitos
 ----------
