@@ -13,7 +13,7 @@ Modelos Conceptuales y Físicamente Basados
 Principios de Optimización y Ajuste de Parámetros
 -------------------------------------------------
 
-Estadística Básica
-------------------
+Estadística Básica para series temporales
+-----------------------------------------
 
 
