@@ -14,5 +14,5 @@ Contenidos
 .. toctree::
 
 
-   ParaQuien
-   Temas
+   audiencia
+   revision_conceptos
