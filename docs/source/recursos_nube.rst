@@ -1,11 +1,11 @@
 Recursos en la nube
 ===================
 
-`Google Earth Engine`_ Acceso a imágenes satelitales
+`Google Earth Engine`_ Acceso y procesado de imágenes satelitales y raster
 
 .. _Google Earth Engine: https://developers.google.com/earth-engine/
 
-`Catálogo GEE`_
+`Catálogo GEE`_ Datos raster disponibles
 
 .. _Catálogo GEE: https://developers.google.com/earth-engine/datasets/catalog/
 
