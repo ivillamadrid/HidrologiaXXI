@@ -1,4 +1,4 @@
-Bienvenidos a la propuesta de borrador de curso de doctorado "Hidrologia-XXI" para el `IHLLA <https://ihlla.conicet.gov.ar/>`_
+Bienvenidos a la propuesta de borrador de curso de doctorado "Hidrología-XXI" para el `IHLLA <https://ihlla.conicet.gov.ar/>`_
 ==============================================================================================================================
 
 
