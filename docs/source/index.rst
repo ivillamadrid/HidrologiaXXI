@@ -1,11 +1,12 @@
-Bienvenidos a la propuesta de borrador de curso de doctorado "Hidrología-XXI" del `IHLLA <https://ihlla.conicet.gov.ar/>`_
+Bienvenidos a la "propuesta" de curso de doctorado "Hidrología-XXI" del `IHLLA <https://ihlla.conicet.gov.ar/>`_
 ==============================================================================================================================
 
 
 
 .. note::
-   El proyecto se encuentra en fase embrionaria, y se espera esté disponible en Septiembre de 2023. 
-   
+   El proyecto se encuentra en fase de borrador, a través de la navegación en la página se muestra un índice provisional con los contenidos principales. 
+   Se espera que esté disponible a partir de Septiembre de 2023, en modo presencial y online. 
+   Para cualquier consulta o aclaración dirigirse a `Ignacio Villanueva <ivillanueva@ihlla.org.ar>`_
 
 Contenidos
 ----------
