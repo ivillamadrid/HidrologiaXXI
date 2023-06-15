@@ -4,6 +4,9 @@ Computación
 Ecuaciones en Derivadas Parciales (PDEs)
 ----------------------------------------
 
+Ejemplo de balance en la vertical
+---------------------------------
+
 Ejemplo de la Onda-Difusiva (Heat, Hydrodynamics, Ground-Water)
 ---------------------------------------------------------------
 Partiendo de la formulación de la conservación de la masa para la especie :math:`C` en un volumen de control:
