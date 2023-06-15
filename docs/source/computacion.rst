@@ -7,8 +7,8 @@ Ecuaciones en Derivadas Parciales (PDEs)
 Ejemplo de balance en la vertical
 ---------------------------------
 
-Ejemplo de la Onda-Difusiva (heat, GW, HD-SWE)
-------------------------------------------
+Ejemplo de la Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter)
+---------------------------------------------------------------
 Partiendo de la formulación de la conservación de la masa para la especie *C* en un volumen de control:
 
 .. math::
