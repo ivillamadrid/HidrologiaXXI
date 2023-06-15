@@ -18,7 +18,7 @@ Revisar conceptos básicos de Hidrología para introducirse en la explotación d
 
 Como ejemplo práctico de integración se estudiarán los casos: 
 
-* Inundaciones a gran escala: modelos digitales elevación y simulaciones numéricas con el soporte de imágenes satelitales.
+* Inundaciones a gran escala: modelos digitales de elevación y simulaciones numéricas con el soporte de imágenes satelitales.
 
 * Inteligencia Artificial y Machine-Learning: pronóstico de series temporales de caudal con redes neuronales LSTM.
 
