@@ -35,6 +35,11 @@ y la hidrodinámica para aguas superficiales poco profundas (HD-SWE), usando el 
 
  q_x =  \frac{(h_f)^{5/3}}{n} \left(\frac{\partial(Z_b+h)}{\partial x}\right)^{1/2}  
 
+O también empleada en el filtrado de imágenes satelitales SAR, en este caso con anisotropía:
+
+.. math::
+
+\frac{\partial I}{\partial t}= \nabla \left(c \nabla I \right)
 
 Computación II
 ==============
