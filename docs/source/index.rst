@@ -18,6 +18,7 @@ Contenidos
    conceptos_0
    remote_sensing
    computacion
+   bateria_GEE
    recursos_nube
    bibliografia
    
