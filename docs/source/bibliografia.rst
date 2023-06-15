@@ -3,7 +3,7 @@ Bibliografía
 
 Acceso libre verificado
 -----------------------
-Crank, J. (1979). The mathematics of diffusion. Oxford university press. https://books.google.com.ar/books?hl=es&lr=&id=eHANhZwVouYC&oi=fnd&pg=IA4&dq=crank+mathematics+of+diffusion&ots=fA36CXhkMZ&sig=-5cofBX8IENI_vaFLeHTE9lwtfM&redir_esc=y#v=onepage&q=crank%20mathematics%20of%20diffusion&f=false
+Crank, J. (1979). **The mathematics of diffusion**. Oxford university press. https://books.google.com.ar/books?hl=es&lr=&id=eHANhZwVouYC&oi=fnd&pg=IA4&dq=crank+mathematics+of+diffusion&ots=fA36CXhkMZ&sig=-5cofBX8IENI_vaFLeHTE9lwtfM&redir_esc=y#v=onepage&q=crank%20mathematics%20of%20diffusion&f=false
 
 Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). **Google Earth Engine: Planetary-scale geospatial analysis for everyone**. Remote Sensing of Environment, 202, 18-27. https://doi.org/10.1016/j.rse.2017.06.031
 
