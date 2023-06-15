@@ -1,7 +1,7 @@
 Batería de ejemplos GEE
 =======================
 
-* Identificando cuerpos de agua con las base de datos `JRC`_ y `Global-Flood`_: ocurrencia, estacionalidad, y recurrencia. 
+* Identificando cuerpos de agua con las bases de datos `JRC`_ y `Global-Flood`_: ocurrencia, estacionalidad, y recurrencia. 
 
 .. _JRC: https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_3_GlobalSurfaceWater 
 
