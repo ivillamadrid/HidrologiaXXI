@@ -9,7 +9,7 @@ Ejemplo de balance en la vertical
 
 Ejemplo de la Onda-Difusiva (heat, GW, HD-SWE)
 ------------------------------------------
-Partiendo de la formulación de la conservación de la masa para la especie :math:`C` en un volumen de control:
+Partiendo de la formulación de la conservación de la masa para la especie *C* en un volumen de control:
 
 .. math::
 
@@ -35,7 +35,7 @@ y la hidrodinámica para aguas superficiales poco profundas (HD-SWE), usando el 
 
  q_x =  \frac{(h_f)^{5/3}}{n} \left(\frac{\partial(Z_b+h)}{\partial x}\right)^{1/2}  
 
-O también empleada en el filtrado de la intensidad de imágenes satelitales SAR, en este caso con anisotropía (X-Y) es:
+O también empleada en el filtrado de la intensidad *I* de imágenes satelitales SAR, en este caso con anisotropía en el coeficiente c(x, y):
 
 .. math::
 
