@@ -39,7 +39,7 @@ O también empleada en el filtrado de imágenes satelitales SAR, en este caso co
 
 .. math::
 
-\frac{\partial I}{\partial t}= \nabla \left(c \nabla I \right)
+  \frac{\partial I}{\partial t}= \nabla \left(c \nabla I \right)
 
 Computación II
 ==============
