@@ -11,7 +11,7 @@ Donchyts, G., van de Giesen, N., & Gorelick, N. (2017, June). **Reconstruction o
 
 .. _R.G.: https://www.researchgate.net/publication/318128244_Reconstruction_of_reservoir_and_lake_surface_area_dynamics_from_optical_and_SAR_satellite_imagery
 
-Donchyts, G., Winsemius, H., Baart, F. et al. High-resolution surface water dynamics in Earth’s small and medium-sized reservoirs. Sci Rep 12, 13776 (2022). https://doi.org/10.1038/s41598-022-17074-6
+Donchyts, G., Winsemius, H., Baart, F. et al. **High-resolution surface water dynamics in Earth’s small and medium-sized reservoirs**. Sci Rep 12, 13776 (2022). https://doi.org/10.1038/s41598-022-17074-6
 
 Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D., & Moore, R. (2017). **Google Earth Engine: Planetary-scale geospatial analysis for everyone**. Remote Sensing of Environment, 202, 18-27. https://doi.org/10.1016/j.rse.2017.06.031
 
