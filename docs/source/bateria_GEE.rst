@@ -9,4 +9,4 @@ Batería de ejemplos GEE
 
 * Análisis post huracán en San Pedro de Sula, Honduras, 2021.
 
-* Casos de interés para DACB.
+* Casos de interés en la cuenca del Azul, DACB.
