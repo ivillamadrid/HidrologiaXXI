@@ -1,5 +1,5 @@
-Batería de ejemplos GEE:
-========================
+Batería de ejemplos GEE
+=======================
 
 * Identificando cuerpos de agua con las base de datos `JRC`_ y `Global-Flood`_: ocurrencia, estacionalidad, y recurrencia. 
 
