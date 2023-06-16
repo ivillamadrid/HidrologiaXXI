@@ -10,7 +10,7 @@ accesos a recursos en internet están en abierto.
 
 Objetivos
 ---------
-Revisar conceptos básicos de Hidrología para introducirse en la explotación de datos con las técnicas más recientes:
+Revisar conceptos básicos de Hidrología para introducirse en la modelización y explotación de datos con las técnicas más recientes:
 
 * Imágenes satelitales en abierto trabajando con servidores en la nube: Google-Earth-Engine.
 
