@@ -11,6 +11,8 @@ Batería de ejemplos GEE
 
 .. _CHIRPS: https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY
 
+* Evolución del paisaje por sedimentación y erosión.
+
 * Análisis post evento de los huracanes Eta e Iota, en San Pedro de Sula, Honduras, Noviembre 2020.
 
 * Casos de interés en la cuenca del Azul, DACB.
