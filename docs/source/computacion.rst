@@ -43,6 +43,14 @@ O también empleada en el filtrado de la intensidad *I* de imágenes satelitales
 
 Computación II
 ==============
+
+Aforo no intrusivo mediante LSPIV con `RIVeR`_
+-----------------------------------------------
+
+.. RIVeR https://riverdischarge.blogspot.com/p/tutorial.html
+
+
+
 Modelos enfocados a los datos (Data-Driven) y Machine-Learning: pronóstico de series temporales con LSTM
 --------------------------------------------------------------------------------------------------------
 
