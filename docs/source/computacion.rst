@@ -44,10 +44,8 @@ O también empleada en el filtrado de la intensidad *I* de imágenes satelitales
 Computación II
 ==============
 
-Aforo no intrusivo mediante LSPIV con `RIVeR`_
------------------------------------------------
-
-.. RIVeR https://riverdischarge.blogspot.com/p/tutorial.html
+Aforo no intrusivo mediante LSPIV con `RIVeR <https://riverdischarge.blogspot.com>`_
+-------------------------------------------------------------------------------------
 
 
 
