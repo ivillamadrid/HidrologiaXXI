@@ -8,6 +8,8 @@ Simulación Numérica de Recursos Hídricos, Evaluación de Riesgo de Desastres 
 Se impartirá en castellano, aunque gran parte de la documentación de soporte y links están en inglés. Todo el software empleado y los
 accesos a recursos en internet están en abierto.
 
+Se piensa en sesiones de 4 horas cada una, una o dos por semana, en horario oficina,  huso UTC-3.
+
 Objetivos
 ---------
 Revisar conceptos básicos de Hidrología para introducirse en la modelización y explotación de datos con las técnicas más recientes:
