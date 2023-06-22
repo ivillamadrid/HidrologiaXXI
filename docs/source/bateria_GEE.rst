@@ -7,7 +7,7 @@ Batería de ejemplos GEE
 
 .. _Global-Flood: https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1
 
-* Análisis de precipitación diaria en grilla de 0.05° con `CHIRPS`_ .
+* Análisis de precipitación diaria en grilla de 0.05° con `CHIRPS`_.
 
 .. _CHIRPS: https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY
 
