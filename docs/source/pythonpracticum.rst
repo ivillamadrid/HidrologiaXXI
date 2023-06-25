@@ -1,5 +1,5 @@
-PP Python Practicum
-===================
+PP o Python Practicum
+=====================
 
 Directamente relacionados con la enseñanza teórica se desarrollan los siguientes ejemplos con códigos de Python:
 
