@@ -19,6 +19,7 @@ Contenidos
    remote_sensing
    computacion
    bateria_GEE
+   pythonpracticum
    recursos_nube
    bibliografia
    
