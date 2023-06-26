@@ -7,7 +7,7 @@ Directamente relacionados con la enseñanza teórica se desarrollan los siguient
 
 .. math:
 
-\frac{dV}{dt}=Q-eA-kHA
+  \frac{\partial V}{\partial t}=Q-eA-kHA
 
 
 * Diagramas de Taylor para la explotación de datos.
