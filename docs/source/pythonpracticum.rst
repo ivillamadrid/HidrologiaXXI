@@ -23,4 +23,6 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
 
 * Probabilidad condicionada: curvas de fragilidad de diques por efecto piping :math:`P(b|h)`.
 
-* Índice topográfico de mojado (TWI) con librerías `Pydem https://github.com/creare-com/pydem `_
+* Índice topográfico de mojado (TWI) con librerías `pyDEM`_ 
+
+.. _pyDEM: https://github.com/https://github.com/creare-com/pydem `_
