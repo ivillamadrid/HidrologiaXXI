@@ -4,7 +4,7 @@ PP o Python Practicum
 Inicialmente se introducen los conceptos generales de programación: declaración de variables, definición de valores, operadores condicionales, bucles, uso de librerias matemáticas, gráficas y entrada y salida de datos por ficheros.
 Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan los siguientes ejemplos en códigos Python:
 
-* Análisis dinámica horizontal: avance de la interfaz "wet-dry" :math:`(h_l, 0)` sobre fondo plano sin fricción.
+* Análisis dinámica horizontal: avance de la interfaz *wet-dry* :math:`(h_l, 0)` sobre fondo plano sin fricción.
 
 .. math::
 
