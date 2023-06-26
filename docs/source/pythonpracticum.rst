@@ -19,7 +19,10 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
   \frac{\partial V}{\partial t}=Q-eA-kHA
 
 
-* Diagramas de Taylor para la explotación de datos con *(SD, R, RMSE)* 
+* Análisis cuantitativo de datos: Diagramas de Taylor con *(SD, R, RMSE)* 
+
+Avanzados:
+-----------
 
 * Probabilidad condicionada: curvas de fragilidad de diques por efecto piping :math:`P(b|h)`.
 
