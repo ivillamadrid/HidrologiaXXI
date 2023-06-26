@@ -25,4 +25,4 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
 
 * Índice topográfico de mojado (TWI) con librerías `pyDEM`_ 
 
-.. _pyDEM: https://github.com/https://github.com/creare-com/pydem `_
+.. _pyDEM: https://github.com/creare-com/pydem `_
