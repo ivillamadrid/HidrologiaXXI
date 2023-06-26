@@ -28,7 +28,7 @@ Avanzados:
 
 .. math::
 
-  P(b|h)
+  P(breach|H)=CDF(H, \mu, \sigma)
 
 * Índice topográfico de mojado (TWI) con librerías `pyDEM`_ 
 
