@@ -22,3 +22,5 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
 * Diagramas de Taylor para la explotación de datos con *(SD, R, RMSE)* 
 
 * Probabilidad condicionada: curvas de fragilidad de diques por efecto piping :math:`P(b|h)`.
+
+* Índice topográfico de mojado (TWI) con librerías `Pydem https://github.com/creare-com/pydem `_
