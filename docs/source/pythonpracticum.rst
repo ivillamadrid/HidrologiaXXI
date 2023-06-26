@@ -8,9 +8,9 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
 
 .. math::
 
-  c=\sqrt(gH)
-  x_l=-ct
-  x_r=2ct
+  c=\sqrt{gH} \\
+  x_l=-ct \\
+  x_r=2ct \\
 
 * Análisis dinámica vertical: lago parabólico con entrada de caudal, evaporación e infiltración. Estados transitorios y estacionario.
 
