@@ -21,4 +21,4 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
 
 * Diagramas de Taylor para la explotación de datos con *(SD, R, RMSE)* 
 
-* Curvas de fragilidad de diques por efecto piping.
+* Probabilidad condicionada: curvas de fragilidad de diques por efecto piping :math:`P(b|h)`.
