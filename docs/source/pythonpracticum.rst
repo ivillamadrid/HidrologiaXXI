@@ -1,7 +1,8 @@
 PP o Python Practicum
 =====================
 
-Directamente relacionados con la enseñanza teórica se desarrollan los siguientes ejemplos con códigos de Python:
+Inicialmente se introducen los conceptos generales de programación: declaración de variables, definición de valores, operadores condicionales, bucles, uso de librerias matemáticas, gráficas y entrada y salida de datos por ficheros.
+Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan los siguientes ejemplos en códigos Python:
 
 * Lago parabólico con entrada de caudal, evaporación e infiltración. Estados transitorios y estacionario.
 
