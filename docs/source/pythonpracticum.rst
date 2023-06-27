@@ -13,7 +13,7 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
   x_r &= 2ct \\
 
 .. image:: ./Pics/Dry-Wet_Analytic_pp1.png
-  :width: 200
+  :width: 250
   :alt: Dry-Wet
   :align: center 
 
