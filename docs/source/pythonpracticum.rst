@@ -45,6 +45,12 @@ Avanzados:
 
   P(breach|H)=CDF(H, \mu, \sigma)
 
+.. image:: ./Pics/FC-piping_pp4.png
+  :width: 250
+  :alt: Taylor-Red
+  :align: center 
+
+
 * Índice topográfico de mojado (TWI) con librerías `pyDEM`_ 
 
 .. _pyDEM: https://github.com/creare-com/pydem
