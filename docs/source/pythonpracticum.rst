@@ -30,6 +30,11 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
 
 * Análisis cuantitativo de datos: diagramas de Taylor en base a *(SD, R, RMSE)*. 
 
+.. image:: ./Pics/Taylor-Red_pp3.png
+  :width: 250
+  :alt: Taylor-Red
+  :align: center 
+
 Avanzados:
 -----------
 
