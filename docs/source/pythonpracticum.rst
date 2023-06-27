@@ -12,6 +12,10 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
   x_l &= -ct \\
   x_r &= 2ct \\
 
+.. image:: ./Pics/Dry-Wet_Analytic_pp1.png
+  :width: 200
+  :alt: "Dry-Wet"
+
 * Análisis dinámica vertical: lago parabólico con entrada de caudal *Q*, evaporación *e*, e infiltración *k*. Estados transitorios y estacionario.
 
 .. math::
