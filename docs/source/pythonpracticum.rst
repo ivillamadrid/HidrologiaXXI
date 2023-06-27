@@ -8,9 +8,9 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
 
 .. math::
 
-  c &= \sqrt{gh_l} \\
-  x_l &= -ct \\
-  x_r &= 2ct \\
+  c = \sqrt{gh_l} \\
+  x_l = -ct \\
+  x_r = 2ct \\
 
 .. image:: ./Pics/Dry-Wet_Analytic_pp1.png
   :width: 250
