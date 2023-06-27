@@ -23,6 +23,10 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
 
   \frac{\partial V}{\partial t}=Q-eA-kHA
 
+.. image:: ./Pics/H-Reservoir_pp2.png
+  :width: 250
+  :alt: H-t
+  :align: center 
 
 * Análisis cuantitativo de datos: diagramas de Taylor en base a *(SD, R, RMSE)*. 
 
