@@ -35,6 +35,7 @@ Posteriormente y relacionado con la enseñanza teórica del curso se desarrollan
   :alt: Taylor-Red
   :align: center 
 
+
 Avanzados:
 -----------
 
