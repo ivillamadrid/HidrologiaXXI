@@ -7,9 +7,11 @@ Batería de ejemplos GEE
 
 .. _Global-Flood: https://developers.google.com/earth-engine/datasets/catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1
 
-* Análisis de precipitación diaria en grilla de 0.05° con `CHIRPS`_.
+* Análisis de precipitación diaria en grilla de 0.05° con `CHIRPS`_, y con `GPM-IMERG`_ de grilla 0.1° e intervalo de 30 minutos.
 
 .. _CHIRPS: https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY
+
+.. _GPM-IMERG: https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V06 
 
 * Evolución del paisaje por sedimentación y erosión.
 
