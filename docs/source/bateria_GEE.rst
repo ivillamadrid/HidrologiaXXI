@@ -20,9 +20,9 @@ Batería de ejemplos GEE
 Machine-Learning: entrenamiento y validación
 --------------------------------------------
 
-* Clasificadores no supervisados
+* Clasificadores no supervisados: inicialmente *X-means*
 
-* Clasificadores supervisados
+* Clasificadores supervisados: inicialmente *Random-Forest*
 
 Casos de interés en la cuenca del Azul, DACB
 --------------------------------------------
