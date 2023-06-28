@@ -17,4 +17,12 @@ Batería de ejemplos GEE
 
 * Análisis post evento de los huracanes Eta e Iota, en San Pedro de Sula, Honduras, Noviembre 2020. Diques de defensa y brechas.
 
-* Casos de interés en la cuenca del Azul, DACB.
+Machine-Learning: entrenamiento y validación
+--------------------------------------------
+
+* Clasificadores no supervisados
+
+* Clasificadores supervisados
+
+Casos de interés en la cuenca del Azul, DACB
+--------------------------------------------
