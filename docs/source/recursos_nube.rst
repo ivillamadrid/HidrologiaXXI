@@ -32,3 +32,11 @@ Scripts de monitoreo del `Global-Water-Watch@github`_,
 Subiendo tu cuenca para Hidrología de grandes muestreos en el proyecto CARAVAN, `Large-Sampling Hydrology`_, basado en Google Earth Engine.
 
 .. _Large-Sampling Hydrology: https://github.com/kratzert/Caravan/wiki/Extending-Caravan-with-new-basins
+
+Recopilación de técnicas y artículos `Deep-Learning`_ para procesar imágenes satelitales, por Orbuculum.
+
+.. _Deep-Learning: https://github.com/satellite-image-deep-learning/techniques
+
+
+
+
