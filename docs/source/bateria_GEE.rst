@@ -13,7 +13,7 @@ Batería de ejemplos GEE
 
 .. _GPM-IMERG: https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V06 
 
-* Evolución del paisaje por sedimentación y erosión.
+* Detección de cambio: evolución por sedimentación y erosión.
 
 * Análisis post evento de los huracanes Eta e Iota, en San Pedro de Sula, Honduras, Noviembre 2020. Diques de defensa y brechas.
 
