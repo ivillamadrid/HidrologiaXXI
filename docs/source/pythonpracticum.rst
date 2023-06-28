@@ -54,3 +54,5 @@ Avanzados:
 * Índice topográfico de mojado (TWI) con librerías `pyDEM`_ 
 
 .. _pyDEM: https://github.com/creare-com/pydem
+
+* Resolvedor de la ecuación de Difusión-2D por kernel de convolución
