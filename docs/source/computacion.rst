@@ -51,8 +51,8 @@ Obtención de Modelos Digitales de Elevación con UAVs
 ----------------------------------------------------
 
 
-Modelos enfocados a los datos (Data-Driven) y Machine-Learning: pronóstico de series temporales con LSTM
---------------------------------------------------------------------------------------------------------
+Modelos enfocados a los datos (Data-Driven) y aprendizaje con NNs: pronóstico de series temporales con LSTM
+-----------------------------------------------------------------------------------------------------------
 
 Modelos y contribuciones de los propios alumnos
 -----------------------------------------------
