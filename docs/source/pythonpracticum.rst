@@ -55,4 +55,4 @@ Avanzados:
 
 .. _pyDEM: https://github.com/creare-com/pydem
 
-* Resolvedor de la ecuación de Difusión-2D con un kernel de convolución
+* Resolvedor de la ecuación de Difusión-2D con un kernel de convolución: contornos, fuentes y sumideros.
