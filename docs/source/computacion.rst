@@ -21,7 +21,7 @@ Ecuaciones en Derivadas Parciales (PDEs)
 
 .. math::
 
-  \frac{\partial \rho T}{\partial t}+\frac{\partial \rho UT }{\partial x}=0
+  \frac{\partial (\rho T)}{\partial t}+\frac{\partial (\rho UT) }{\partial x}=0
 
 Ejemplo de balance en la vertical
 ---------------------------------
