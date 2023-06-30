@@ -4,6 +4,17 @@ Computación I
 Ecuaciones en Derivadas Parciales (PDEs)
 ----------------------------------------
 
+* PDE Elíptica:
+
+.. math::
+
+  \frac{\partial }{\partial x} \left(K \frac{\partial T }{\partial x}\right)=0
+
+* PDE Parabólica:
+
+* PDE Hiperbólica:
+
+
 Ejemplo de balance en la vertical
 ---------------------------------
 
