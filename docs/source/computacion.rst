@@ -1,8 +1,8 @@
 Computación I
 =============
 
-Ecuaciones en Derivadas Parciales (PDEs)
-----------------------------------------
+Ecuaciones en Derivadas Parciales (PDEs) 1D
+-------------------------------------------
 
 * PDE Elíptica:
 
