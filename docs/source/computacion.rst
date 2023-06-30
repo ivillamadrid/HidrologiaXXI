@@ -14,7 +14,7 @@ Ecuaciones en Derivadas Parciales (PDEs)
 
 .. math::
 
-  \frac{\partial T}{\partial t}= K\left( \frac{\partial^2 T }{\partial x^2}\right)=0
+  \frac{\partial T}{\partial t}= K\left( \frac{\partial^2 T }{\partial x^2}\right)
 
 
 * PDE Hiperbólica:
