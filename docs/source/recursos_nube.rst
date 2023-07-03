@@ -9,7 +9,7 @@ Recursos en la nube
 
 .. _Catálogo GEE: https://developers.google.com/earth-engine/datasets/catalog/
 
-`Google Cloud Compute Engine`_ Máquinas Virtuales configurables para LSFM (Large-Scale-Flood-Modelling, modelización de inundaciones a gran escala)
+`Google Cloud Compute Engine`_ Máquinas Virtuales configurables para *LSFM* (Large-Scale-Flood-Modelling, modelización de inundaciones a gran escala)
 
 .. _Google Cloud Compute Engine: https://cloud.google.com/
 
