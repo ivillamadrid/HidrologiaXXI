@@ -22,6 +22,10 @@ Visor de reservorios con evolución de superficie y volumen, `Global-Water-Watch
 
 .. _Global-Water-Watch: https://www.globalwaterwatch.earth/
 
+Gandhi, Ujaval, 2021. Curso de Spatial Thoughts sobre GEE para `Water Resources Management`_
+
+.. _Water Resources Management: https://courses.spatialthoughts.com/gee-water-resources-management.html
+
 Git-Hubs
 --------
 
