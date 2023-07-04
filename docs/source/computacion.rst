@@ -39,7 +39,7 @@ y el coeficiente de difusión :math:`D` sea uniforme en x, y análogamente en la
 
 .. math::
 
-  \frac{\partial C}{\partial t}= \frac{\partial^2 C}{\partial x^2}+ \frac{\partial^2 C}{\partial y^2}+ \frac{\partial^2 C}{\partial z^2}
+  \frac{\partial C}{\partial t}= D \left(\frac{\partial^2 C}{\partial x^2}+ \frac{\partial^2 C}{\partial y^2}+ \frac{\partial^2 C}{\partial z^2}\right)
 
 Ecuación de difusión o de propagación del calor (heat), se estudiarán ejemplos básicos para comprender el uso de términos fuente y las condiciones de contorno,
 y se extenderá a otros casos más complejos como la ecuación de difusión para aguas subterráneas (GW), usando la ley de Darcy: 
