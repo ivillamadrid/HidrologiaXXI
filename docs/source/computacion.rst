@@ -46,9 +46,15 @@ y se extenderá a otros casos más complejos como la ecuación de difusión para
 
 .. math::
 
-  \frac{\partial F_x}{\partial x} \equiv q_x = -K  \frac{\partial h}{\partial x}
+  \frac{\partial F_x}{\partial x} \equiv q_x = -T  \frac{\partial h}{\partial x}
 
-y la hidrodinámica para aguas superficiales poco profundas (HD-SWE), usando el caudal:
+En 2D, es:
+
+.. math::
+
+  \frac{\partial h}{\partial t}=\frac{\partial }{\partial x}  \left( K_x \frac{\partial h}{\partial x} \right) + \frac{\partial }{\partial y}  \left( K_y \frac{\partial h}{\partial y} \right)
+
+La hidrodinámica para aguas superficiales poco profundas (HD-SWE), usa el caudal:
 
 .. math::
 
