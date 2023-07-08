@@ -52,7 +52,7 @@ En 2D, es:
 
 .. math::
 
-  \frac{\partial h}{\partial t}=\frac{\partial }{\partial x}  \left( K_x \frac{\partial h}{\partial x} \right) + \frac{\partial }{\partial y}  \left( K_y \frac{\partial h}{\partial y} \right) \pm q_{SRC}
+  \frac{\partial h}{\partial t}=\frac{\partial }{\partial x}  \left( K_x \frac{\partial h}{\partial x} \right) + \frac{\partial }{\partial y}  \left( K_y \frac{\partial h}{\partial y} \right) \pm q_{src}
 
 La hidrodinámica para aguas superficiales poco profundas (HD-SWE), usa el caudal:
 
