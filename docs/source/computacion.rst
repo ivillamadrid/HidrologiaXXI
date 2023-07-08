@@ -46,7 +46,7 @@ y se extenderá a otros casos más complejos como la ecuación de difusión para
 
 .. math::
 
-  \frac{\partial F_x}{\partial x} \equiv q_x = -T  \frac{\partial h}{\partial x}
+  \frac{\partial F_x}{\partial x} \equiv q_x = -K  \frac{\partial h}{\partial x}
 
 En 2D, es:
 
