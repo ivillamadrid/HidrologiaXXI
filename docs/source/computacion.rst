@@ -66,6 +66,16 @@ O también empleada en el filtrado de la intensidad *I* de imágenes satelitales
 
   \frac{\partial I}{\partial t}= \frac{\partial}{\partial x} \left(c \frac{\partial I}{\partial x}\right) + \frac{\partial}{\partial y} \left(c \frac{\partial I}{\partial y}\right) 
 
+Esquemas en diferencias finitas para las PDEs
+---------------------------------------------
+
+Diferentes esquemas de discretización para resolver las ecuaciones anteriores, partiendo de aproximaciones tipo:
+
+.. math::
+
+\frac{\partial h}{\partial x} \approx \frac{h({x_i+1})-h(x_i)}{\partial x_i+1 - x_i} 
+
+
 Computación II
 ==============
 
