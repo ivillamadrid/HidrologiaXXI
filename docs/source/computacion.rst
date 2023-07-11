@@ -25,7 +25,7 @@ Ecuaciones en Derivadas Parciales (PDEs) 1D
 
 Ejemplo de balance en la vertical
 ---------------------------------
-En un lago aproximado groseramente como circular y con un lecho parabólico, donde la relación entre la profundidad *h* y el radio *r* es :math:`h=cr^2`, la conservación de la masa se expresa como:
+En un lago aproximado groseramente como circular y con un lecho parabólico, donde la relación entre la profundidad *h* y el radio *r* es :math:`h=cr^2`, la conservación de la masa se expresa inicialmente como:
 
 .. math::
 
