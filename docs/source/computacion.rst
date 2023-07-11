@@ -96,7 +96,7 @@ se resuelve, en modo explícito de Euler, como
 
 de forma implícita, como
 
-.. math:: U^{n+1}=U^{n}+\Delta t F(U^n+1, t^n+1)
+.. math:: U^{n+1}=U^{n}+\Delta t F(U^{n+1}, t^{n+1})
 
 O la combinación semi-implícita:
 
