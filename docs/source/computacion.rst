@@ -81,7 +81,7 @@ Requieren relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\
 
 :math:`\frac{\partial U}{\partial t} = F(U, t)`, como :math:`U^{n+1}=U^{n}+\Delta t F(U^n, t^n)`
 
-:math:`\frac{\partial U}{\partial t} + \lambda \frac{\partialF(U, t)}{\partial x}=0`,
+:math:`\frac{\partial U}{\partial t} + \lambda \frac{\partial F(U)}{\partial x}=0`,
 
 
 Computación II
