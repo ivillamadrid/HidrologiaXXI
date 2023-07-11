@@ -79,7 +79,7 @@ Diferentes esquemas de discretización para resolver las ecuaciones anteriores, 
 
 Requieren relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, para resolver:
 
-:math:`\frac{\partial U}{\partial t} = F(U, t)`, como :math:`U^{n+1}=U^{n}+\Delta t F(U^n, t^n)`
+:math:`\frac{d U}{d t} = F(U, t)`, como :math:`U^{n+1}=U^{n}+\Delta t F(U^n, t^n)`, o las PDE tipo:
 
 :math:`\frac{\partial U}{\partial t} + \lambda \frac{\partial F(U)}{\partial x}=0`,
 
