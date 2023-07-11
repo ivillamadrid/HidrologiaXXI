@@ -1,8 +1,19 @@
 Computación I
 =============
 
+Ejemplo de inicio: balance en la vertical
+-----------------------------------------
+En un lago aproximado groseramente como circular y con un lecho parabólico, donde la relación entre la profundidad *h* y el radio *r* es :math:`h=cr^2`, la conservación de la masa se expresa  como:
+
+.. math::
+
+  Q-E-Inf=\frac{dV}{dt}=\frac{\pi r^2 dh}{dt}=\frac{\pi h}{c}\frac{dh}{dt}
+
+Permite calcular la evolución de la profundidad en función de los términos fuente: caudal entrada *Q*, evaporación *E* y la infiltración *Inf*, como veremos.
+
 Ecuaciones en Derivadas Parciales (PDEs) 1D
 -------------------------------------------
+Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, distinguiremos:
 
 * PDE Elíptica:
 
@@ -23,18 +34,9 @@ Ecuaciones en Derivadas Parciales (PDEs) 1D
 
   \frac{\partial (\rho T)}{\partial t}+\frac{\partial (\rho U_xT) }{\partial x}=0
 
-Ejemplo de balance en la vertical
----------------------------------
-En un lago aproximado groseramente como circular y con un lecho parabólico, donde la relación entre la profundidad *h* y el radio *r* es :math:`h=cr^2`, la conservación de la masa se expresa inicialmente como:
 
-.. math::
-
-  Q-E-Inf=\frac{dV}{dt}=\frac{\pi r^2 dh}{dt}=\frac{\pi h}{c}\frac{dh}{dt}
-
-Permite calcular la evolución de la profundidad en función de los términos fuente: caudal entrada *Q*, evaporación *E* y la infiltración *Inf*, como veremos.
-
-Ejemplo de la Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter) 2D
-------------------------------------------------------------------
+Ejemplos 2D de Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter) 2D
+-------------------------------------------------------------------
 Partiendo de la formulación de la conservación de la masa para la especie *C* en un volumen de control:
 
 .. math::
