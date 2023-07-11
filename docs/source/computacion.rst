@@ -81,8 +81,7 @@ requieren relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\
 
 :math:`\frac{d U}{d t} = F(U, t)`, como 
 
-.. math:: U^{n+1}=U^{n}+\Delta t F(U^n, t^n)
-  :label:euler_Texp
+.. math:: U^{n+1}=U^{n}+\Delta t F(U^n, t^n) :label:euler
 
 o las PDE tipo:
 
