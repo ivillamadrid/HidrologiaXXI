@@ -73,7 +73,7 @@ Diferentes esquemas de discretización para resolver las ecuaciones anteriores, 
 
 .. math::
 
-\frac{\partial h}{\partial x} \approx \frac{h({x_i+1})-h(x_i)}{\partial x_i+1 - x_i} 
+  \frac{\partial h}{\partial x} \approx \frac{h(x_{i+1})-h(x_i)}{\partial x_{i+1} - x_i} 
 
 
 Computación II
