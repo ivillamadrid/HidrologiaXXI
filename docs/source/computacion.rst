@@ -78,7 +78,10 @@ Diferentes esquemas de discretización para resolver las ecuaciones anteriores, 
   \frac{\partial u}{\partial t} \approx \frac{u^{n+1}-u^n}{\Delta t}
 
 Por ejemplo la ecuación de balance en la vertical 
-:math:`\frac{d U}{d t} = F(U, t)`, se resuelve como 
+
+.. math:: \frac{d U}{d t} = F(U, t)
+
+se resuelve como 
 
 .. math:: U^{n+1}=U^{n}+\Delta t F(U^n, t^n) 
 
