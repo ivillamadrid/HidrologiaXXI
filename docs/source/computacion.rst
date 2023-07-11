@@ -31,7 +31,7 @@ En un lago aproximado groseramente como circular y con un lecho parabólico, don
 
   Q=\frac{dV}{dt}=\frac{\pi r^2 dh}{dt}=\frac{\pi h}{c}\frac{dh}{dt}
 
-Permite calcular la evolución de la profundidad en función de los términos fuente: caudal *Q*, la evaporación *E* y la infiltración *Inf*, como veremos.
+Permite calcular la evolución de la profundidad en función de los términos fuente: caudal *Q*, evaporación *E* y la infiltración *Inf*, como veremos.
 
 Ejemplo de la Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter) 2D
 ------------------------------------------------------------------
