@@ -29,7 +29,7 @@ En un lago aproximado como circular y con un lecho parab√≥lico, donde la relaci√
 
 .. math::
 
-  Q=\frac{dV}{dt}=\frac{\pi h}{c}\frac{dh}{dt}
+  Q=\frac{dV}{dt}=\frac{\pi r^2 dh}{dt}=\frac{\pi h}{c}\frac{dh}{dt}
 
 
 
