@@ -96,7 +96,7 @@ se resuelve como
 
 Para las PDE, se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, para resolver:
 
-.. math:: \frac{\partial U}{\partial t} + \lambda \frac{\partial F(U)}{\partial x}=0,
+.. math:: \frac{\partial U}{\partial t} + \lambda \frac{\partial F(U)}{\partial x}=0
 
 
 Computación II
