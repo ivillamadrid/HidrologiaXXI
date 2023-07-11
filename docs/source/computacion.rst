@@ -90,7 +90,7 @@ permiten su resolución, el ejemplo de balance en la vertical del tipo:
 
 .. math:: \frac{d U}{d t} = F(U, t)
 
-se resuelve como 
+se resuelve (modo explícito) como 
 
 .. math:: U^{n+1}=U^{n}+\Delta t F(U^n, t^n) 
 
