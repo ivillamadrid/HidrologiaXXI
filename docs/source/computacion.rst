@@ -25,7 +25,12 @@ Ecuaciones en Derivadas Parciales (PDEs) 1D
 
 Ejemplo de balance en la vertical
 ---------------------------------
-En un lago aproximado como un lecho parabólico donde la relación entre la profundidad *h* y el radio *r* es :math:`h=cr^2`
+En un lago aproximado como un lecho parabólico donde la relación entre la profundidad *h* y el radio *r* es :math:`h=cr^2`, la conservación de la masa se expresa como:
+
+.. math:
+
+  Q=\frac{dV}{dt}=\frac{\pi h}{c}\frac{dh}{dt}
+
 
 
 Ejemplo de la Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter) 2D
