@@ -78,7 +78,7 @@ O también empleada en el filtrado de la intensidad *I* de imágenes satelitales
 Esquemas en diferencias finitas para las PDEs
 ---------------------------------------------
 
-Diferentes esquemas de discretización para resolver las ecuaciones anteriores, partiendo de aproximaciones tipo:
+Diferentes esquemas de discretización de las ecuaciones anteriores, partiendo de aproximaciones tipo:
 
 .. math::
 
@@ -86,7 +86,7 @@ Diferentes esquemas de discretización para resolver las ecuaciones anteriores, 
 
   \frac{\partial u}{\partial t} \approx \frac{u^{n+1}-u^n}{\Delta t}
 
-Por ejemplo la ecuación de balance en la vertical, tipo: 
+permiten su resolución, el ejemplo de balance en la vertical del tipo: 
 
 .. math:: \frac{d U}{d t} = F(U, t)
 
