@@ -35,8 +35,8 @@ Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, disti
   \frac{\partial (\rho T)}{\partial t}+\frac{\partial (\rho U_xT) }{\partial x}=0
 
 
-Ejemplos 2D de Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter) 2D
--------------------------------------------------------------------
+Ejemplos 2D de Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter)
+----------------------------------------------------------------
 Partiendo de la formulación de la conservación de la masa para la especie *C* en un volumen de control:
 
 .. math::
