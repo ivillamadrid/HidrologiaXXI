@@ -90,9 +90,17 @@ permiten su resolución, el ejemplo de balance en la vertical del tipo:
 
 .. math:: \frac{d U}{d t} = F(U, t)
 
-se resuelve (modo explícito) como 
+se resuelve, en modo explícito de Euler, como 
 
 .. math:: U^{n+1}=U^{n}+\Delta t F(U^n, t^n) 
+
+de forma implícita, como
+
+.. math:: U^{n+1}=U^{n}+\Delta t F(U^n+1, t^n+1)
+
+O la combinación semi-implícita:
+
+.. math:: U^{n+1}=U^{n}+ \Delta t[ (1-\Theta) F(U^n, t^n) + \Theta  F(U^n+1, t^n+1)]
 
 Para las PDE, se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, para resolver:
 
