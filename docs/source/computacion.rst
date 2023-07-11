@@ -102,7 +102,7 @@ O la combinación semi-implícita:
 
 .. math:: U^{n+1}=U^{n}+ \Delta t[ (1-\Theta) F(U^n, t^n) + \Theta  F(U^{n+1}, t^{n+1})]
 
-Con el parámetro de peso :math:` 0 \le \Theta \le 1`
+Con el parámetro de peso :math:`0 \le \Theta \le 1`
 
 Para las PDE, se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, para resolver:
 
