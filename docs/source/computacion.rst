@@ -25,6 +25,8 @@ Ecuaciones en Derivadas Parciales (PDEs) 1D
 
 Ejemplo de balance en la vertical
 ---------------------------------
+En un lago aproximado como un lecho parabólico donde la relación entre la profundidad *h* y el radio *r* es :math:`h=cr^2`
+
 
 Ejemplo de la Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter) 2D
 ------------------------------------------------------------------
@@ -77,7 +79,7 @@ Diferentes esquemas de discretización para resolver las ecuaciones anteriores, 
 
   \frac{\partial u}{\partial t} \approx \frac{u^{n+1}-u^n}{\Delta t}
 
-Por ejemplo la ecuación de balance en la vertical 
+Por ejemplo la ecuación de balance en la vertical, tipo: 
 
 .. math:: \frac{d U}{d t} = F(U, t)
 
