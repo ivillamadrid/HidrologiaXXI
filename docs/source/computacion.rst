@@ -77,15 +77,12 @@ Diferentes esquemas de discretización para resolver las ecuaciones anteriores, 
 
   \frac{\partial u}{\partial t} \approx \frac{u^{n+1}-u^n}{\Delta t}
 
-requieren relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, para resolver:
-
-:math:`\frac{d U}{d t} = F(U, t)`, como 
+Por ejemplo la ecuación de balance en la vertical 
+:math:`\frac{d U}{d t} = F(U, t)`, se resuelve como 
 
 .. math:: U^{n+1}=U^{n}+\Delta t F(U^n, t^n) 
 
-  :label:euler
-
-o las PDE tipo:
+Para las PDE, se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, para resolver::
 
 :math:`\frac{\partial U}{\partial t} + \lambda \frac{\partial F(U)}{\partial x}=0`,
 
