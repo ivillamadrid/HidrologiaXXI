@@ -106,7 +106,7 @@ Con el parámetro de peso :math:`0 \le \Theta \le 1`.
 
 Para resolver las PDE, especialmente las de primer orden hiperbólicas, 
 
-.. math:: \frac{\partial U}{\partial t} + \frac{\partial F}{\partial x}=0
+.. math:: \frac{\partial U}{\partial t} + \frac{\partial F(U)}{\partial x}=0
 
 se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, ello se deduce al transformar la PDE a 
 notación característica, con :math:`\Lambda=\partial F / \partial U`:
