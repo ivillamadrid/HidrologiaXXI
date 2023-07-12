@@ -86,7 +86,7 @@ Diferentes esquemas de discretización de las ecuaciones anteriores, parten de a
 
   \frac{\partial u}{\partial t} \approx \frac{u^{n+1}-u^n}{\Delta t}
 
-que permiten su resolución, por ejemplo el balance en la vertical es del tipo: 
+que permiten su resolución, por ejemplo el caso más sencillo de balance puntual, escrito como: 
 
 .. math:: \frac{d U}{d t} = H(U, t)
 
