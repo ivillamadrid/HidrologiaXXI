@@ -104,7 +104,11 @@ O la combinación semi-implícita:
 
 Con el parámetro de peso :math:`0 \le \Theta \le 1`.
 
-Para las PDE, especialmente las hiperbólicas, se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, ello se deduce al transformar la PDE a 
+Para las PDE, especialmente las de primer orden hiperbólicas, 
+
+.. math:: \frac{\partial U}{\partial t} + \frac{\partial F}{\partial x}=0
+
+se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, ello se deduce al transformar la PDE a 
 notación característica, con :math:`\Lambda=\partial F / \partial U`:
 
 .. math:: \frac{\partial U}{\partial t} + \Lambda \frac{\partial U}{\partial x}=0
