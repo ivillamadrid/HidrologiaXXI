@@ -113,7 +113,7 @@ notación característica, con :math:`\Lambda=\partial F / \partial U`:
 
 .. math:: \frac{\partial U}{\partial t} + \Lambda \frac{\partial U}{\partial x}=0
 
-de la que se deduce una condición necesaria de convergencia (o aplicando el teorema de Lax, es necesaria y suficiente si es estable y consistente):
+de la que se deduce una condición necesaria de convergencia, que aplicando el teorema de Lax, si la discretización es consistente, afirma que la condición necesaria y suficiente de convergencia, es  la estabilidad, que se logra mediante:
 
 .. math:: \frac{\Delta t \lambda_{max}}{\Delta x} \le CFL
 
