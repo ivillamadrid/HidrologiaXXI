@@ -109,14 +109,13 @@ notación característica:
 
 .. math:: \frac{\partial U}{\partial t} + \Lambda \frac{\partial U}{\partial x}=0
 
-y una condición necesaria de convergencia es:
+de la que se deduce una condición necesaria de convergencia:
 
 .. math:: \frac{\Delta t \lambda_{max}}{\Delta x} \le CFL
 
 Donde *CFL* es el coeficiente originalmente definido por Courant, Friedrichs y Lewy en 1928, y :math:`\lambda_{max}` el autovalor máximo de la matriz :math:`\Lambda`.
 
-De modo que en discretización explícita :math:`CFL \le 1` y en implícita puede relajarse con :math:`CFL \gt 1`
-como se verá en detalle.
+De modo que en discretización explícita :math:`CFL \le 1` y en implícita puede relajarse con :math:`CFL \gt 1`. La intepretación es que en el esquema explícito el paso temporal *\Delta t* ha de ser menor que el tiempo que le cuesta a la onda más rápida transportarse en una celda de tamaño *\Delta x*.
 
 
 Computación II
