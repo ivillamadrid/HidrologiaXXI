@@ -110,7 +110,7 @@ Para las PDE, especialmente las hiperbólicas, se requiere relacionar cuidadosam
 
 una condición necesaria de convergencia es:
 
-.. math:: \frac{\Delta t \Lambda_{max}}{\Delta x} \le CFL_{max}
+.. math:: \frac{\Delta t \Lambda_{max}}{\Delta x} \le CFL
 
 Donde *CFL* es el coeficiente originalmente definido por Courant, Friedrichs y Lewy en 1928.
 
