@@ -88,19 +88,19 @@ Diferentes esquemas de discretización de las ecuaciones anteriores, parten de a
 
 que permiten su resolución, por ejemplo el balance en la vertical es del tipo: 
 
-.. math:: \frac{d U}{d t} = F(U, t)
+.. math:: \frac{d U}{d t} = H(U, t)
 
 se resuelve, en discretización temporal explícita de Euler, como 
 
-.. math:: U^{n+1}=U^{n}+\Delta t F(U^n, t^n) 
+.. math:: U^{n+1}=U^{n}+\Delta t H(U^n, t^n) 
 
 de forma implícita, como
 
-.. math:: U^{n+1}=U^{n}+\Delta t F(U^{n+1}, t^{n+1})
+.. math:: U^{n+1}=U^{n}+\Delta t H(U^{n+1}, t^{n+1})
 
 O la combinación semi-implícita:
 
-.. math:: U^{n+1}=U^{n}+ \Delta t[ (1-\Theta) F(U^n, t^n) + \Theta  F(U^{n+1}, t^{n+1})]
+.. math:: U^{n+1}=U^{n}+ \Delta t[ (1-\Theta) H(U^n, t^n) + \Theta  H(U^{n+1}, t^{n+1})]
 
 Con el parámetro de peso :math:`0 \le \Theta \le 1`.
 
