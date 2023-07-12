@@ -131,7 +131,7 @@ se define a través de los valores :math:`(U_{i-1}^n, U_{i}^n , U_{i+1}^n)`. En 
 se define a través de los valores :math:`(U_{i-k}^n, ..., U_{i-1}^n, U_{i}^n , U_{i+1}^n, ..., U_{i+k}^n)` y :math:`(U_{i-k}^{n+1}, ..., U_{i-1}^{n+1}, U_{i}^{n+1} , U_{i+1}^{n+1}, ..., U_{i+k}^{n+1})`, que es una relación más compleja algebraicamente, y se resuelve por medio de iteraciones, pero en teoría es incondicionalmente estable. 
 
 En la práctica, al usar discretización implícita con *CFL* altos, se añade difusión numérica o viscosidad artificial que atenua las ondas, y se pierde precisión, por lo que
-es necesario encontrar un *CFL* de compromiso entre celeridad y precisión.
+es necesario encontrar un *CFL* de compromiso entre celeridad y precisión, siguiendo a Cunge, 1995.
 
 
 Computación II
