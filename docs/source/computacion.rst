@@ -106,7 +106,7 @@ Con el parámetro de peso :math:`0 \le \Theta \le 1`.
 
 Para las PDE, especialmente las hiperbólicas, se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, porque para resolver:
 
-.. math:: \frac{\partial U}{\partial t} + \Lambda \frac{\partial F(U)}{\partial x}=0
+.. math:: \frac{\partial U}{\partial t} + \Lambda \frac{\partial U}{\partial x}=0
 
 una condición necesaria de convergencia es:
 
