@@ -115,7 +115,8 @@ de la que se deduce una condición necesaria de convergencia:
 
 Donde *CFL* es el coeficiente originalmente definido por Courant, Friedrichs y Lewy en 1928, y :math:`\lambda_{max}` el autovalor máximo de la matriz :math:`\Lambda`.
 
-De modo que en discretización explícita :math:`CFL \le 1` y en implícita puede relajarse con :math:`CFL \gt 1`. La intepretación es que en el esquema explícito el paso temporal :math:`\Delta t` ha de ser menor que el tiempo que le cuesta a la onda más rápida trasladarse en una celda de tamaño :math:`\Delta x`.
+De modo que en discretización explícita :math:`CFL \le 1` y en implícita puede relajarse con :math:`CFL \gt 1`. La intepretación es que en el esquema explícito el paso temporal :math:`\Delta t` ha de ser menor que el tiempo que le cuesta a la onda más rápida trasladarse en una celda de tamaño :math:`\Delta x`, porque el valor de :math:`U^{n+1}`,
+se define a través de :math:`(U_{i-1}^n, U_{i}^n , U_{i+1}^n)`.
 
 
 Computación II
