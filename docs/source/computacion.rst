@@ -112,7 +112,7 @@ una condición necesaria de convergencia es:
 
 .. math:: \frac{\Delta t \lambda_{max}}{\Delta x} \le CFL
 
-Donde *CFL* es el coeficiente originalmente definido por Courant, Friedrichs y Lewy en 1928, y :math:´\lambda_{max}´ el autovalor máximo de :math:´\Lambda´.
+Donde *CFL* es el coeficiente originalmente definido por Courant, Friedrichs y Lewy en 1928, y :math:`\lambda_{max}` el autovalor máximo de :math:`\Lambda`.
 
 De modo que en discretización explícita :math:`CFL \le 1` y en implícita puede relajarse con :math:`CFL \gt 1`
 como se verá en detalle.
