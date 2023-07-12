@@ -113,7 +113,7 @@ notación característica, con :math:`\Lambda=\partial F / \partial U`:
 
 .. math:: \frac{\partial U}{\partial t} + \Lambda \frac{\partial U}{\partial x}=0
 
-de la que se deduce una condición necesaria de convergencia:
+de la que se deduce una condición necesaria de convergencia (o aplicando el teorema de Lax, es necesaria y suficiente si es estable y consistente):
 
 .. math:: \frac{\Delta t \lambda_{max}}{\Delta x} \le CFL
 
