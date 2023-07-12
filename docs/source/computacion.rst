@@ -110,7 +110,7 @@ Para las PDE, especialmente las hiperbólicas, se requiere relacionar cuidadosam
 
 una condición necesaria de convergencia, con discretización explícita es:
 
-.. math: \frac{\Delta t \lambda_{max}}{\Delta x} \le CFL_{max}
+.. math:: \frac{\Delta t \lambda_{max}}{\Delta x} \le CFL_{max}
 
 Como se verá en detalle.
 
