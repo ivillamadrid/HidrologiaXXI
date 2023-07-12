@@ -82,7 +82,7 @@ Diferentes esquemas de discretización de las ecuaciones anteriores, parten de a
 
 .. math::
 
-  \frac{\partial h}{\partial x} \approx \frac{h(x_{i+1})-h(x_i)}{x_{i+1} - x_i} \equiv \frac{h_{i+1}-h_i}{\Delta x}
+  \frac{\partial f}{\partial x} \approx \frac{f(x_{i+1})-f(x_i)}{x_{i+1} - x_i} \equiv \frac{f_{i+1}-f_i}{\Delta x}
 
   \frac{\partial u}{\partial t} \approx \frac{u^{n+1}-u^n}{\Delta t}
 
@@ -105,7 +105,7 @@ O la combinación semi-implícita:
 Con el parámetro de peso :math:`0 \le \Theta \le 1`.
 
 Para las PDE, especialmente las hiperbólicas, se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, ello se deduce al transformar la PDE a 
-notación característica:
+notación característica, con :math:`\Lambda=\partial F / \partial U`:
 
 .. math:: \frac{\partial U}{\partial t} + \Lambda \frac{\partial U}{\partial x}=0
 
@@ -118,9 +118,9 @@ o equivalentemente:
 .. math:: \Delta t \le CFL \frac{\Delta x}{\lambda_{max}}
 
 Donde *CFL* es el coeficiente originalmente definido por Courant, Friedrichs y Lewy en 1928, y :math:`\lambda_{max}` el autovalor máximo de la matriz 
-:math:`\Lambda=\partial F / \partial U`.
+:math:`\Lambda`.
 
-De modo que en discretización explícita :math:`CFL \le 1` y en implícita puede relajarse con :math:`CFL \gt 1`.
+De modo que en discretización explícita :math:`CFL \le 1` y en implícita se relaja permitiendo :math:`CFL \gt 1`.
 
 La intepretación es que en el esquema explícito el paso temporal :math:`\Delta t` ha de ser menor que el tiempo que le cuesta a la onda más rápida trasladarse en una celda de tamaño :math:`\Delta x`, porque el valor de :math:`U^{n+1}_i`,
 se define a través de los valores :math:`(U_{i-1}^n, U_{i}^n , U_{i+1}^n)`. En la discretización implícita el valor de :math:`U^{n+1}_i`,
