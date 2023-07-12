@@ -119,11 +119,14 @@ o equivalentemente:
 
 Donde *CFL* es el coeficiente originalmente definido por Courant, Friedrichs y Lewy en 1928, y :math:`\lambda_{max}` el autovalor máximo de la matriz :math:`\Lambda`.
 
-De modo que en discretización explícita :math:`CFL \le 1` y en implícita puede relajarse con :math:`CFL \gt 1`. La intepretación es que en el esquema explícito el paso temporal :math:`\Delta t` ha de ser menor que el tiempo que le cuesta a la onda más rápida trasladarse en una celda de tamaño :math:`\Delta x`, porque el valor de :math:`U^{n+1}_i`,
+De modo que en discretización explícita :math:`CFL \le 1` y en implícita puede relajarse con :math:`CFL \gt 1`.
+
+La intepretación es que en el esquema explícito el paso temporal :math:`\Delta t` ha de ser menor que el tiempo que le cuesta a la onda más rápida trasladarse en una celda de tamaño :math:`\Delta x`, porque el valor de :math:`U^{n+1}_i`,
 se define a través de los valores :math:`(U_{i-1}^n, U_{i}^n , U_{i+1}^n)`. En la discretización implícita el valor de :math:`U^{n+1}_i`,
 se define a través de los valores :math:`(U_{i-k}^n, ..., U_{i-1}^n, U_{i}^n , U_{i+1}^n, ..., U_{i+k}^n)` y :math:`(U_{i-k}^{n+1}, ..., U_{i-1}^{n+1}, U_{i}^{n+1} , U_{i+1}^{n+1}, ..., U_{i+k}^{n+1})`, que es una relación más compleja algebraicamente, y se resuelve por medio de iteraciones, 
 
-No obstante, al usar discretización implícita con CFL altos, se añade difusión numérica o viscosidad artificial que atenua las ondas, y se pierde precisión, 
+No obstante, al usar discretización implícita con CFL altos, se añade difusión numérica o viscosidad artificial que atenua las ondas, y se pierde precisión, por lo que
+es necesario encontrar un *CFL* de compromiso entre celeridad y precisión.
 
 
 Computación II
