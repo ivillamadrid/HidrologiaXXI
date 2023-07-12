@@ -104,7 +104,7 @@ O la combinación semi-implícita:
 
 Con el parámetro de peso :math:`0 \le \Theta \le 1`.
 
-Para las PDE, especialmente las de primer orden hiperbólicas, 
+Para resolver las PDE, especialmente las de primer orden hiperbólicas, 
 
 .. math:: \frac{\partial U}{\partial t} + \frac{\partial F}{\partial x}=0
 
