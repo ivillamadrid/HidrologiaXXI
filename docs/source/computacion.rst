@@ -104,9 +104,13 @@ O la combinación semi-implícita:
 
 Con el parámetro de peso :math:`0 \le \Theta \le 1`.
 
-Para las PDE, se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, para resolver:
+Para las PDE, especialmente las hiperbólicas, se requiere relacionar cuidadosamente los ratios entre :math:`\Delta x` y :math:`\Delta t`, porque para resolver:
 
 .. math:: \frac{\partial U}{\partial t} + \lambda \frac{\partial F(U)}{\partial x}=0
+
+una condición necesaria de convergencia, con discretización explícita es:
+
+.. math: \frac{\Delta t \lambda_{max}}{\Delta x} \le CFL_{max}
 
 Como se verá en detalle.
 
