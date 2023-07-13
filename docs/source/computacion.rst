@@ -141,6 +141,10 @@ Se resolverá (1D & 2D) usando el esquema o plantilla (del inglés *stencil*):
 
 Con :math:`\lambda=D\frac{\Delta t}{\Delta x^2}`. El esquema es estable si se mantiene la relación: :math:`\lambda \le \frac{1}{2}`. 
 
+Y el implícito de Crank-Nicolson:
+
+.. math:: C_i^{n+1}=C_i^n + \lambda_x \left( C_{i-1}^n -2C_i^n + C_{i+1}^n \right)+\lambda_t \left( C_{i-1}^{n+1} -2C_i^{n+1} + C_{i+1}^{n+1} \right)
+
 
 Computación II
 ==============
