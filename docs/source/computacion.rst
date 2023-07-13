@@ -22,7 +22,7 @@ Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, disti
   \frac{\partial }{\partial x} \left(K \frac{\partial T }{\partial x}\right)=0
 
 * PDE Parabólica:
-
+Como la ecuación de transporte por difusión:
 .. math::
 
   \frac{\partial C}{\partial t}= D\left( \frac{\partial^2 C }{\partial x^2}\right)
