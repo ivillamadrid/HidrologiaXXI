@@ -139,7 +139,7 @@ Se resolverá (1D & 2D) usando el esquema o plantilla (del inglés *stencil*):
 
 .. math:: C_i^{n+1}=C_i^n + \lambda \left( C_{i-1}^n -2C_i^n + C_{i+1}^n \right)
 
-Con :math:`\lambda=D\frac{\Delta t}{\Delta x^2}`, y criterio de estabilidad 1D: :math:`\lambda \le \frac{1}{2}`. 
+Con :math:`\lambda=D\frac{\Delta t}{\Delta x^2}`, y estable si se mantiene la relación: :math:`\lambda \le \frac{1}{2}`. 
 
 
 Computación II
