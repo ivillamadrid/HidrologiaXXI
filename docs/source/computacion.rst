@@ -139,6 +139,8 @@ Se resolverá usando el esquema o plantilla (del inglés *stencil*):
 
 .. math:: C_i^{n+1}=C_i^n + \lambda \left( C_{i-1}^n -2C_i^n+ C_{i+1, n}\right)
 
+Con :math:`\lambda=\frac{\Delta t}{\Delta x^2}`
+
 
 Computación II
 ==============
