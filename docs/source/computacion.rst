@@ -143,7 +143,7 @@ Con :math:`\lambda=D\frac{\Delta t}{\Delta x^2}`. El esquema es estable si se ma
 
 Y el implícito de Crank-Nicolson:
 
-.. math:: C_i^{n+1}=C_i^n + \frac{1}{2}\lambda \left[ \left( C_{i-1}^n -2C_i^n + C_{i+1}^n \right)+\frac{\Delta x^2}{\Delta t ^2} \left( C_{i-1}^{n+1} -2C_i^{n+1} + C_{i+1}^{n+1} \right)\right]
+.. math:: C_i^{n+1}=C_i^n + \frac{1}{2}\lambda \left[ \left( C_{i-1}^n -2C_i^n + C_{i+1}^n \right)+\left( C_{i-1}^{n+1} -2C_i^{n+1} + C_{i+1}^{n+1} \right)\right]
 
 
 
