@@ -25,7 +25,7 @@ Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, disti
 
 .. math::
 
-  \frac{\partial T}{\partial t}= K\left( \frac{\partial^2 T }{\partial x^2}\right)
+  \frac{\partial C}{\partial t}= D\left( \frac{\partial^2 C }{\partial x^2}\right)
 
 
 * PDE Hiperbólica:
@@ -139,7 +139,7 @@ Se resolverá usando el esquema o plantilla (del inglés *stencil*):
 
 .. math:: C_i^{n+1}=C_i^n + \lambda \left( C_{i-1}^n -2C_i^n+ C_{i+1, n}\right)
 
-Con :math:`\lambda=\frac{\Delta t}{\Delta x^2}`
+Con :math:`\lambda=D\frac{\Delta t}{\Delta x^2}`
 
 
 Computación II
