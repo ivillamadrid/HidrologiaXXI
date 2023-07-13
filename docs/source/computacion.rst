@@ -133,6 +133,12 @@ se define a través de los valores :math:`(U_{i-k}^n, ..., U_{i-1}^n, U_{i}^n , 
 En la práctica, al usar discretización implícita con *CFL* altos, se añade difusión numérica o viscosidad artificial que atenua las ondas, y se pierde precisión, por lo que
 es necesario encontrar un *CFL* de compromiso entre celeridad y precisión, siguiendo a Cunge, 1995.
 
+Ejemplo de discretización explícita para la ecuación de difusión 1D:
+********************************************************************
+Se resolverá usando el esquema o plantilla (del inglés *stencil*):
+
+.. math:: C_i^{n+1}=C_i^n + \lambda \left( C_{i-1}^n -2C_i^n+ C_{i+1, n}\right)
+
 
 Computación II
 ==============
