@@ -15,7 +15,7 @@ Ecuaciones en Derivadas Parciales (PDEs) 1D
 -------------------------------------------
 Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, distinguiremos:
 
-* PDE Elíptica, como la de conducción de calor en estado de equilibrio o estacionario ( :math:`\frac{\partial T}{\partial t}=0`):
+* PDE Elíptica, como la de conducción de calor en estado de equilibrio o estacionario,  :math:`\frac{\partial T}{\partial t}=0`:
 
 .. math::
 
