@@ -15,14 +15,14 @@ Ecuaciones en Derivadas Parciales (PDEs) 1D
 -------------------------------------------
 Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, distinguiremos:
 
-* PDE Elíptica:
+* PDE Elíptica, como la conducción de calor en estado de equilibrio o estacionario:
 
 .. math::
 
   \frac{\partial }{\partial x} \left(K \frac{\partial T }{\partial x}\right)=0
 
-* PDE Parabólica:
-Como la ecuación de transporte por difusión:
+* PDE Parabólica, como la ecuación de transporte por difusión:
+
 .. math::
 
   \frac{\partial C}{\partial t}= D\left( \frac{\partial^2 C }{\partial x^2}\right)
