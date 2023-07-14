@@ -38,7 +38,7 @@ Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, disti
 
 .. math::
 
-  \frac{\partial (C)}{\partial t}+\frac{\partial ( U_xC) }{\partial x}=D \frac{\partial^2 C }{\partial x^2}
+  \frac{\partial (C)}{\partial t}+ U_x \frac{\partial C }{\partial x}=\frac{\partial}{\partial x} \left( D \frac{\partial C }{\partial x}\right)
 
 
 Ejemplos 2D de Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter)
