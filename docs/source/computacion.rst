@@ -32,13 +32,13 @@ Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, disti
 
 .. math::
 
-  \frac{\partial (C)}{\partial t}+\frac{\partial ( U_xC) }{\partial x}=0
+  \frac{\partial C}{\partial t}+\frac{\partial ( U_xC) }{\partial x}=0
 
 * Híbridas: advección-dispersion:
 
 .. math::
 
-  \frac{\partial (C)}{\partial t}+ U_x \frac{\partial C }{\partial x}=\frac{\partial}{\partial x} \left( D \frac{\partial C }{\partial x}\right)
+  \frac{\partial C}{\partial t}+ U_x \frac{\partial C }{\partial x}=\frac{\partial}{\partial x} \left( D \frac{\partial C }{\partial x}\right)
 
 
 Ejemplos 2D de Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter)
