@@ -25,7 +25,7 @@ Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, disti
 
 .. math::
 
-  \frac{\partial C}{\partial t}= D\left( \frac{\partial^2 C }{\partial x^2}\right)
+  \frac{\partial C}{\partial t}= D \frac{\partial^2 C }{\partial x^2}
 
 
 * PDE Hiperbólica:
@@ -38,7 +38,7 @@ Si añadimos la dependencia espacial o un dominio de cálculo en el eje X, disti
 
 .. math::
 
-  \frac{\partial (C)}{\partial t}+\frac{\partial ( U_xC) }{\partial x}=D\left( \frac{\partial^2 C }{\partial x^2}\right)
+  \frac{\partial (C)}{\partial t}+\frac{\partial ( U_xC) }{\partial x}=D \frac{\partial^2 C }{\partial x^2}
 
 
 Ejemplos 2D de Onda-Difusiva (heat, GW, HD-SWE, SAR backscatter)
