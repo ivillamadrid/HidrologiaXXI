@@ -34,3 +34,14 @@ y `JavaScript de Google-Earth-Engine <https://developers.google.com/earth-engine
 Inicio y duración
 -----------------
 Previsiblemente a partir de Septiembre de 2023, y de un mínimo de 40 horas de duración.
+
+Organización de las sesiones
+-----------------------------
+
+Primer día, 4h:
+***************
+
+* Teoría básica de ecuaciones de conservación en derivadas parciales: términos fuente, condiciones contorno, estabilidad.
+* Nociones básicas de programación, uso de lenguaje Python.
+* Programas elementales en Python para las EDP seleccionadas.
+
