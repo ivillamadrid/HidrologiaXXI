@@ -41,7 +41,7 @@ Organización de las sesiones
 Primer día, 4h:
 ***************
 
-* Teoría básica de ecuaciones de conservación en derivadas parciales: términos fuente, condiciones contorno, estabilidad.
+* Teoría básica de ecuaciones de conservación en derivadas parciales: clasificación, discretización, términos fuente, condiciones contorno, estabilidad.
 * Nociones básicas de programación, uso de lenguaje Python.
 * Programas elementales en Python para las EDP seleccionadas.
 
