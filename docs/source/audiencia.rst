@@ -43,5 +43,20 @@ Primer día, 4h:
 
 * Teoría básica de ecuaciones de conservación en derivadas parciales: clasificación, discretización, términos fuente, condiciones contorno, estabilidad.
 * Nociones básicas de programación, uso de lenguaje Python.
-* Programas elementales en Python para las EDP seleccionadas.
+* Programas elementales en Python para las EDP seleccionadas, y manipulación de series temporales.
+* Introducción a la separación de dominios computacionales para GPUs.
 
+Días 2º-3º, 8h:
+***************
+* Introducción a GEE
+* Detección de cuerpos de agua con GEE:
+
+.. toctree:: 
+
+  NDWI
+
+  MNDWI
+
+Cuarto día, 4h:
+***************
+ * Evaluación de Riesgo: Exposición && Vulnerabilidad
