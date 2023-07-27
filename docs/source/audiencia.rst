@@ -48,15 +48,16 @@ Primer día, 4h:
 
 Días 2º-3º, 8h:
 ***************
-* Introducción a GEE
-* Detección de cuerpos de agua con GEE y satélites MSI: bases de datos globales (JRC, GFDB).
-* Indice NDWI, clasificación por umbral, distribución de Otsu, aplicación a reservorios.
-* Clasificadores con entrenamiento no supervisados.
-* Clasificadores con entrenamiento supervisados.
+* Introducción a GEE.
+* Detección de cuerpos de agua con GEE y satélites MSI:
+ * Bases de datos globales: JRC y GFDB.
+ * Indice NDWI, clasificación por umbral, distribución de Otsu, aplicación a reservorios.
+ * Clasificadores con entrenamiento no supervisados.
+ * Clasificadores con entrenamiento supervisados.
 * Cruzado con MDE para calcular volúmenes de agua.
 * Introducción al procesado de imágenes SAR.
 
-
 Cuarto día, 4h:
 ***************
- * Análisis de Riesgo: Exposición && Vulnerabilidad
+* Análisis de Riesgo: Exposición && Vulnerabilidad.
+  * Casos prácticos
