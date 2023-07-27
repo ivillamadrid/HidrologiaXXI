@@ -44,7 +44,7 @@ Primer día, 4h:
 * Teoría básica de ecuaciones de conservación en derivadas parciales: clasificación, discretización, términos fuente, condiciones contorno, estabilidad.
 * Nociones básicas de programación, uso de lenguaje Python.
 * Programas elementales en Python para las EDP seleccionadas, y manipulación de series temporales.
-* Introducción a la separación de dominios computacionales para GPUs.
+
 
 Días 2º-3º, 8h:
 ***************
@@ -56,9 +56,17 @@ Días 2º-3º, 8h:
  * Clasificadores con entrenamiento no supervisados.
  * Clasificadores con entrenamiento supervisados.
 * Cruzado con MDE para calcular volúmenes de agua.
-* Introducción al procesado de imágenes SAR.
+
 
 Cuarto día, 4h:
 ***************
 * Análisis de Riesgo: Exposición && Vulnerabilidad.
 * Casos prácticos:
+
+Quinto día, 4h:
+***************
+* Revisiones casos de interés previamente discutidos.
+* Temas avanzados:
+ * Separación de dominios computacionales para GPUs.
+ * Procesado de imágenes satelitales SAR.
+ * Clasificadores usando redes neuronales convolucionales: U-Net.
