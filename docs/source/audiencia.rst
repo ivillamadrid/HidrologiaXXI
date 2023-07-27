@@ -57,6 +57,10 @@ Días 2º-3º, 8h:
  * Clasificadores con entrenamiento supervisados.
 * Cruzado con MDE para calcular volúmenes de agua.
 
+.. image:: ./Pics/Steps_Donchyts_2022.png
+  :width: 250
+  :alt: Steps_World-Watch
+  :align: center 
 
 Cuarto día, 4h:
 ***************
