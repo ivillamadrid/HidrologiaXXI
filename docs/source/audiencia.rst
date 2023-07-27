@@ -58,7 +58,7 @@ Días 2º-3º, 8h:
 * Cruzado con MDE para calcular volúmenes de agua.
 
 .. image:: ./Pics/Steps_Donchyts_2023.png
-  :width: 250
+  :width: 300
   :alt: Steps_World-Watch
   :align: center 
 
