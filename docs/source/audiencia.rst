@@ -65,8 +65,8 @@ Cuarto día, 4h:
 
 Quinto día, 4h:
 ***************
-* Revisiones casos de interés previamente discutidos.
-* Temas avanzados:
+* Revisiones de casos de interés previamente discutidos.
+* Introducción a los temas avanzados:
  * Separación de dominios computacionales para GPUs.
  * Procesado de imágenes satelitales SAR.
  * Clasificadores usando redes neuronales convolucionales: U-Net.
