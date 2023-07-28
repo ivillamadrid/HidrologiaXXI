@@ -45,6 +45,11 @@ Primer día, 4h:
 * Nociones básicas de programación, uso de lenguaje Python.
 * Programas elementales en Python para las EDP seleccionadas, y manipulación de series temporales.
 
+.. image:: ./Pics/Example_Diff2D.png
+  :width: 300
+  :alt: Example_Diff2D
+  :align: center 
+
 
 Días 2º-3º, 8h:
 ***************
