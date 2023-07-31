@@ -42,8 +42,8 @@ Primer día, 4h:
 ***************
 
 * Teoría básica de ecuaciones de conservación en derivadas parciales: clasificación, discretización, términos fuente, condiciones contorno, estabilidad.
-* Nociones básicas de programación, uso de lenguaje Python.
-* Programas elementales en Python para las EDP seleccionadas, y manipulación de series temporales.
+* Nociones básicas de programación, uso de lenguaje Python para las EDP seleccionadas.
+* Manipulación de series temporales, utilidades para cambio de formato e intervalos de tiempo. Tendencias, estacionalidad y predicción con un modelo regresivo como PROPHET.
 
 .. image:: ./Pics/Example_Diff2D.PNG
   :width: 300
