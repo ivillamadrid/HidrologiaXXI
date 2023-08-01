@@ -75,6 +75,7 @@ Cuarto día, 4h:
 Quinto día, 4h:
 ***************
 * Revisiones de casos de interés previamente discutidos.
+* Revisión del paper de `Houspanossian et al, 2023 <https://www.science.org/doi/10.1126/science.add5462>`_
 * Introducción a los temas avanzados:
  * Separación de dominios computacionales para GPUs.
  * Procesado de imágenes satelitales SAR.
