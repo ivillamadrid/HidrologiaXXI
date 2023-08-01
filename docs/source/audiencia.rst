@@ -55,7 +55,7 @@ Días 2º-3º, 8h:
 ***************
 * Introducción a GEE.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
- * Bases de datos globales: JRC y GFDB.
+ * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios.
  * Indice NDWI, clasificación por valor umbral, distribución de Otsu.
  * Caso particular: reservorios.
  * Clasificadores con entrenamiento no supervisados.
