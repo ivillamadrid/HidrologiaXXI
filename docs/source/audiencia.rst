@@ -78,5 +78,5 @@ Quinto día, 4h:
 * Análisis del paper de `Houspanossian et al, 2023 <https://www.science.org/doi/10.1126/science.add5462>`_
 * Introducción a los temas avanzados:
  * Separación de dominios computacionales para GPUs.
- * Procesado de imágenes satelitales SAR.
+ * Procesado de imágenes satelitales SAR para inundaciones urbanas: `Islam and Meng, 2022 <https://doi.org/10.1016/j.jag.2022.103002>`_
  * Clasificadores usando redes neuronales convolucionales: U-Net.
