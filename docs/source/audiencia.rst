@@ -81,15 +81,16 @@ Quinto día, 4h:
 ***************
 * Análisis de Riesgo: Exposición && Vulnerabilidad.
 * Revisiones de casos de interés previamente discutidos.
-* Análisis del paper de `Houspanossian et al, 2023 <https://www.science.org/doi/10.1126/science.add5462>`_
+* Análisis del paper de `Houspanossian et al, 2023 <https://www.science.org/doi/10.1126/science.add5462>`_.
 * Introducción a los temas avanzados:
  
- * Procesado de imágenes satelitales SAR para inundaciones urbanas: `Islam and Meng, 2022 <https://doi.org/10.1016/j.jag.2022.103002>`_
+ * Procesado de imágenes satelitales SAR para inundaciones urbanas: `Islam and Meng, 2022 <https://doi.org/10.1016/j.jag.2022.103002>`_.
  * Separación de dominios computacionales para GPUs. 
  * Clasificadores entrenando redes neuronales convolucionales: U-Net.
 
 6º-7º día, 8h:
 **************
+
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
 
 * Caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
@@ -98,8 +99,17 @@ Quinto día, 4h:
 
 .. _Open-Drone-Map: https://www.opendronemap.org/
 
-* Introducción a LSPIV para medir el campo de velocidad en superficie libre.
+* Introducción a LSPIV para medir el campo de velocidad de la superficie libre de un fluído.
 
-* Práctica con software LSPIV  basado en Matlab 
+* Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab. 
+
+8º-9º día, 8h:
+***************
+
+* Modelización Hidrodinámica 2D en escala urbana, ecuaciones de Saint Venant.
+
+* Modelización Hidrodinámica a gran escala, soporte satelital y ecuación de onda difusiva.
+
+* Introducción al acoplamiento con agua subterránea.
 
 
