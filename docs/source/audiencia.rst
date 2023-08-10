@@ -94,7 +94,7 @@ Sexto día, 4h:
 
 * Caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
-* Software `Open-Drone-Map`_, ejemplos: opción *fast-orthophoto* para georeferenciar un cuerpo de agua, relevamiento del puente de avenida Pellegrini sobre el arroyo.
+* Software `Open-Drone-Map`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar un cuerpo de agua, relevamiento del puente de avenida Pellegrini sobre el Arroyo Azul.
 
 .. _Open-Drone-Map: https://www.opendronemap.org/
 
