@@ -61,6 +61,13 @@ Días 2º-3º, 8h:
  * Clasificadores con entrenamiento no supervisados.
  * Clasificadores con entrenamiento supervisados.
 * Cruzado con MDE para calcular volúmenes de agua.
+* Análisis de precipitación diaria en grilla de 0.05° con la misión satelital `CHIRPS`_, y con la misión `GPM-IMERG`_ de grilla 0.1° e intervalo de 30 minutos. Series temporales.
+
+.. _CHIRPS: https://developers.google.com/earth-engine/datasets/catalog/UCSB-CHG_CHIRPS_DAILY
+
+.. _GPM-IMERG: https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V06 
+
+* Seguimiento de sequías con el índice *NDVI* (Normalized Difference Vegetation Index).
 
 .. image:: ./Pics/Steps_Donchyts_2023.png
   :width: 300
