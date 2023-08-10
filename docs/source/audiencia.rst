@@ -106,9 +106,9 @@ Quinto día, 4h:
 8º-9º día, 8h:
 ***************
 
-* Modelización Hidrodinámica 2D en escala urbana, ecuaciones de Saint Venant.
+* Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y HEC-RAS.
 
-* Modelización Hidrodinámica a gran escala, soporte satelital y ecuación de onda difusiva.
+* Modelización Hidrodinámica a gran escala, soporte satelital y ecuación de onda difusiva de Lisflood-FP.
 
 * Introducción al acoplamiento con agua subterránea.
 
