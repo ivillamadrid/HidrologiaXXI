@@ -95,10 +95,11 @@ Quinto día, 4h:
 
 Sexto día, 4h:
 **************
-* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del 
-Modelo Digital de Superficie.
+* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
+
 * Caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
-* Software `Open-Drone-Map`_: opción fast para , relevamiento del puente de avenida Pellegrini sobre el arroyo.
+
+* Software `Open-Drone-Map`_, ejemplos: opción *fast-orthophoto* para georeferenciar un cuerpo de agua, relevamiento del puente de avenida Pellegrini sobre el arroyo.
 
 .. _Open-Drone-Map: https://www.opendronemap.org/
 
