@@ -81,3 +81,11 @@ Quinto día, 4h:
  * Procesado de imágenes satelitales SAR para inundaciones urbanas: `Islam and Meng, 2022 <https://doi.org/10.1016/j.jag.2022.103002>`_
  * Separación de dominios computacionales para GPUs. 
  * Clasificadores entrenando redes neuronales convolucionales: U-Net.
+
+Sexto día, 4h:
+**************
+* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion.
+* Caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
+* Software Open-Drone-Map: fast para , puente Pellegrini,
+
+
