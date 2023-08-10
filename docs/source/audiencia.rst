@@ -60,12 +60,14 @@ Días 2º-3º, 8h:
  * Caso particular: reservorios.
  * Clasificadores con entrenamiento no supervisados.
  * Clasificadores con entrenamiento supervisados.
-* Cruzado con MDE para calcular volúmenes de agua.
+ * Cruzado con MDE para calcular volúmenes de agua.
 
 .. image:: ./Pics/Steps_Donchyts_2023.png
   :width: 300
   :alt: Steps_World-Watch
   :align: center 
+
+ 
 
 * Análisis de precipitación diaria en grilla de 0.05° con la misión satelital `CHIRPS`_, y con la misión `GPM-IMERG`_ de grilla 0.1° e intervalo de 30 minutos. Series temporales.
 
@@ -93,8 +95,11 @@ Quinto día, 4h:
 
 Sexto día, 4h:
 **************
-* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion.
+* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del 
+Modelo Digital de Superficie.
 * Caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
-* Software Open-Drone-Map: fast para , puente Pellegrini,
+* Software `Open-Drone-Map`_: opción fast para , relevamiento del puente de avenida Pellegrini sobre el arroyo.
+
+.. _Open-Drone-Map: https://www.opendronemap.org/
 
 
