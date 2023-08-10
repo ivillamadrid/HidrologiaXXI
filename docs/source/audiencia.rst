@@ -88,7 +88,7 @@ Quinto día, 4h:
  * Separación de dominios computacionales para GPUs. 
  * Clasificadores entrenando redes neuronales convolucionales: U-Net.
 
-Sexto día, 4h:
+6º-7º día, 8h:
 **************
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
 
@@ -97,5 +97,9 @@ Sexto día, 4h:
 * Software `Open-Drone-Map`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar un cuerpo de agua, relevamiento del puente de avenida Pellegrini sobre el Arroyo Azul.
 
 .. _Open-Drone-Map: https://www.opendronemap.org/
+
+* Introducción a LSPIV para medir el campo de velocidad en superficie libre.
+
+* Práctica con software LSPIV  basado en Matlab 
 
 
