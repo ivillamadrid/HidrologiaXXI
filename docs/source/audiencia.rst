@@ -51,8 +51,8 @@ Primer día, 4h:
   :align: center 
 
 
-Días 2º-3º, 8h:
-***************
+Días 2º, 3º, 4º, 12h:
+*********************
 * Introducción a GEE.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios en un área de interés.
@@ -77,14 +77,9 @@ Días 2º-3º, 8h:
 
 * Seguimiento de sequías con el índice *NDVI* (Normalized Difference Vegetation Index).
 
-
-Cuarto día, 4h:
-***************
-* Análisis de Riesgo: Exposición && Vulnerabilidad.
-* Casos prácticos de interés para los estudiantes: ...
-
 Quinto día, 4h:
 ***************
+* Análisis de Riesgo: Exposición && Vulnerabilidad.
 * Revisiones de casos de interés previamente discutidos.
 * Análisis del paper de `Houspanossian et al, 2023 <https://www.science.org/doi/10.1126/science.add5462>`_
 * Introducción a los temas avanzados:
