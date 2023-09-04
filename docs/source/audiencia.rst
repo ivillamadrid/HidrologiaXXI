@@ -31,12 +31,13 @@ Previsiblemente a partir de mitad de Septiembre de 2023, y de 30 horas de duraci
 Organización de las sesiones
 -----------------------------
 
-Primer día, 3h:
-***************
+Días 1º y 2º: "Python + R", 6h
+******************************
 
 * Teoría básica de ecuaciones de conservación en derivadas parciales: clasificación, discretización, términos fuente, condiciones contorno, estabilidad.
 * Nociones básicas de programación, uso de lenguaje Python para las EDP seleccionadas.
-* Manipulación de series temporales con Python, utilidades para cambio de formato e intervalos de tiempo. Tendencias, estacionalidad y predicción con un modelo regresivo como PROPHET.
+* Manipulación de series temporales con Python, utilidades para cambio de formato e intervalos de tiempo. 
+* Tendencias, estacionalidad y predicción de series temporales em R.
 
 .. image:: ./Pics/Example_Diff2D.PNG
   :width: 300
@@ -44,8 +45,8 @@ Primer día, 3h:
   :align: center 
 
 
-Días 2º, 3º, 4º, 5º, 12h:
-*************************
+Días 2º, 3º, 4º, 5º: "GEE", 12h
+*******************************
 * Introducción a GEE.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios en un área de interés.
@@ -71,7 +72,7 @@ Días 2º, 3º, 4º, 5º, 12h:
 * Seguimiento de sequías con el índice *NDVI* (Normalized Difference Vegetation Index).
 
 
-6º-7º-8º día, 9h:
+Días 6º-7º-8º: 9h
 *****************
 
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
