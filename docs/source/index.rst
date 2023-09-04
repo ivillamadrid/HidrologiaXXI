@@ -13,12 +13,13 @@ Contenidos
 
 .. toctree::
 
-
    audiencia
    pythonpracticum
    recursos_nube
    bibliografia
-   
+
+.. toctree::
+
    :hidden:
    conceptos_0
    remote_sensing
