@@ -12,7 +12,7 @@ Contenidos
 ----------
 
 .. toctree::
-
+   
    audiencia
    pythonpracticum
    recursos_nube
