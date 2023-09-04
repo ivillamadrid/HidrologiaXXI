@@ -72,7 +72,7 @@ Días 3º-6º: *GEE*, 12h
 * Seguimiento de sequías con el índice *NDVI* (Normalized Difference Vegetation Index).
 
 
-Días 6º-7º: *Aplicaciones UAV*, 6h
+Días 7º-8º: *Aplicaciones UAV*, 6h
 **********************************
 
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
@@ -85,7 +85,7 @@ Días 6º-7º: *Aplicaciones UAV*, 6h
 
 * Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab. 
 
-Día 8º: *Modelado HD2D*, 3h
+Día 9º: *Modelado HD2D*, 3h
 ***************************
 
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y HEC-RAS.
