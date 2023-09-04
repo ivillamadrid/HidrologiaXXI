@@ -15,10 +15,10 @@ Contenidos
 
 
    audiencia
-   conceptos_0
-   remote_sensing
-   computacion
-   bateria_GEE
+   #conceptos_0
+   #remote_sensing
+   #computacion
+   #bateria_GEE
    pythonpracticum
    recursos_nube
    bibliografia
