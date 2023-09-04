@@ -88,7 +88,7 @@ Días 7º-8º: *Aplicaciones UAV*, 6h
 Día 9º: *Modelado HD2D*, 3h
 ***************************
 
-* Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y HEC-RAS.
+* Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_.
 
 * Caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
