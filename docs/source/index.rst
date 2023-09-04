@@ -19,9 +19,9 @@ Contenidos
    bibliografia
 
 .. toctree::
+    :hidden:
 
-   :hidden:
-   conceptos_0
-   remote_sensing
-   computacion
-   bateria_GEE
+    conceptos_0
+    remote_sensing
+    computacion
+    bateria_GEE
