@@ -77,7 +77,7 @@ Días 6º-7º: *Aplicaciones UAV*, 6h
 
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
 
-* Software `Open-Drone-Map`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar un cuerpo de agua, lago Guemes, y relevamiento del puente de avenida Pellegrini sobre el Arroyo Azul.
+* Software `Open-Drone-Map`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes, y relevamiento 3D del puente de avenida Pellegrini sobre el Arroyo Azul.
 
 .. _Open-Drone-Map: https://www.opendronemap.org/
 
