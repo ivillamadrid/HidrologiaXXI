@@ -33,7 +33,7 @@ y `JavaScript de Google-Earth-Engine <https://developers.google.com/earth-engine
 
 Inicio y duración
 -----------------
-Previsiblemente a partir de Septiembre de 2023, y de un mínimo de 40 horas de duración.
+Previsiblemente a partir de mitad de Septiembre de 2023, y de 30 horas de duración.
 
 Organización de las sesiones
 -----------------------------
