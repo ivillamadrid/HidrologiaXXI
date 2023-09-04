@@ -18,7 +18,4 @@ Contenidos
    recursos_nube
    bibliografia
 
-   'conceptos_0'
-   'remote_sensing'
-   'computacion'
-   'bateria_GEE'
+   
