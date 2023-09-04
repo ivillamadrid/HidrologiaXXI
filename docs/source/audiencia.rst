@@ -18,17 +18,10 @@ Revisar conceptos básicos de Hidrología para introducirse en la modelización 
 
 * Uso de librerías y software abierto: Python, JavaScript, R, Linux shells.
 
-Como ejemplo práctico de integración se estudiarán los casos: 
-
-* Inundaciones a gran escala: modelos digitales de elevación y simulaciones numéricas con el soporte de imágenes satelitales.
-
-* Inteligencia Artificial y Machine-Learning: pronóstico de series temporales de caudal con redes neuronales LSTM.
-
-* Casos a discutir en la propia cuenca del Azul (DACB, Del Azul Creek Basin).
 
 Requisitos
 ----------
-Conocimientos básicos de Hidrología y programación, aunque se dará un curso previo de inmersión a `Python <https://www.python.org/>`_ 
+Conocimientos básicos de Hidrología y programación, aunque se dedicarán unas horas de inmersión a `Python <https://www.python.org/>`_ 
 y `JavaScript de Google-Earth-Engine <https://developers.google.com/earth-engine/tutorials/tutorial_js_01>`_ 
 
 Inicio y duración
@@ -38,7 +31,7 @@ Previsiblemente a partir de mitad de Septiembre de 2023, y de 30 horas de duraci
 Organización de las sesiones
 -----------------------------
 
-Primer día, 4h:
+Primer día, 3h:
 ***************
 
 * Teoría básica de ecuaciones de conservación en derivadas parciales: clasificación, discretización, términos fuente, condiciones contorno, estabilidad.
@@ -51,8 +44,8 @@ Primer día, 4h:
   :align: center 
 
 
-Días 2º, 3º, 4º, 12h:
-*********************
+Días 2º, 3º, 4º, 5º, 12h:
+*************************
 * Introducción a GEE.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios en un área de interés.
@@ -77,19 +70,9 @@ Días 2º, 3º, 4º, 12h:
 
 * Seguimiento de sequías con el índice *NDVI* (Normalized Difference Vegetation Index).
 
-Quinto día, 4h:
-***************
-* Análisis de Riesgo: Exposición && Vulnerabilidad.
-* Revisiones de casos de interés previamente discutidos.
-* Análisis del paper de `Houspanossian et al, 2023 <https://www.science.org/doi/10.1126/science.add5462>`_.
-* Introducción a los temas avanzados:
- 
- * Procesado de imágenes satelitales SAR para inundaciones urbanas: `Islam and Meng, 2022 <https://doi.org/10.1016/j.jag.2022.103002>`_.
- * Separación de dominios computacionales para GPUs. 
- * Clasificadores entrenando redes neuronales convolucionales: U-Net.
 
-6º-7º día, 8h:
-**************
+6º-7º-8º día, 9h:
+*****************
 
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
 
