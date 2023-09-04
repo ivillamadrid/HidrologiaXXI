@@ -18,10 +18,7 @@ Contenidos
    recursos_nube
    bibliografia
 
-.. toctree::
-    :hidden:
-
-    conceptos_0
-    remote_sensing
-    computacion
-    bateria_GEE
+   'conceptos_0'
+   'remote_sensing'
+   'computacion'
+   'bateria_GEE'
