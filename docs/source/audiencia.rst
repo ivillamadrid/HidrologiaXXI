@@ -31,13 +31,13 @@ Previsiblemente a partir de mitad de Septiembre de 2023, y de 30 horas de duraci
 Organización de las sesiones
 -----------------------------
 
-Días 1º y 2º: "Python + R", 6h
+Días 1º y 2º: *Python + R*, 6h
 ******************************
 
-* Teoría básica de ecuaciones de conservación en derivadas parciales: clasificación, discretización, términos fuente, condiciones contorno, estabilidad.
+
 * Nociones básicas de programación, uso de lenguaje Python para las EDP seleccionadas.
 * Manipulación de series temporales con Python, utilidades para cambio de formato e intervalos de tiempo. 
-* Tendencias, estacionalidad y predicción de series temporales em R.
+* Correlación, tendencias, estacionalidad y predicción de series temporales con R.
 
 .. image:: ./Pics/Example_Diff2D.PNG
   :width: 300
@@ -45,8 +45,8 @@ Días 1º y 2º: "Python + R", 6h
   :align: center 
 
 
-Días 2º, 3º, 4º, 5º: "GEE", 12h
-*******************************
+Días 3º-6º: *GEE*, 12h
+**********************
 * Introducción a GEE.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios en un área de interés.
@@ -72,14 +72,12 @@ Días 2º, 3º, 4º, 5º: "GEE", 12h
 * Seguimiento de sequías con el índice *NDVI* (Normalized Difference Vegetation Index).
 
 
-Días 6º-7º-8º: 9h
-*****************
+Días 6º-7º: *Aplicaciones UAV*, 6h
+**********************************
 
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
 
-* Caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
-
-* Software `Open-Drone-Map`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar un cuerpo de agua, relevamiento del puente de avenida Pellegrini sobre el Arroyo Azul.
+* Software `Open-Drone-Map`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar un cuerpo de agua, lago Guemes, y relevamiento del puente de avenida Pellegrini sobre el Arroyo Azul.
 
 .. _Open-Drone-Map: https://www.opendronemap.org/
 
@@ -87,13 +85,11 @@ Días 6º-7º-8º: 9h
 
 * Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab. 
 
-8º-9º día, 8h:
-***************
+Día 8º: *Modelado HD2D*, 3h
+***************************
 
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y HEC-RAS.
 
-* Modelización Hidrodinámica a gran escala, soporte satelital y ecuación de onda difusiva de Lisflood-FP.
-
-* Introducción al acoplamiento con agua subterránea.
+* Caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
 
