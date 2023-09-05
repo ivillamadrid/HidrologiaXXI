@@ -47,7 +47,7 @@ Días 1º y 2º: *Python + R*, 6h
 
 Días 3º-6º: *GEE*, 12h
 **********************
-* Introducción a GEE.
+* Introducción a Google-Earth-Engine.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios en un área de interés.
  * Indice NDWI, clasificación por valor umbral, distribución de Otsu.
@@ -85,7 +85,7 @@ Días 7º-8º: *Aplicaciones UAV*, 6h
 
 * Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab. 
 
-Día 9º: *Modelado HD2D*, 3h
+Día 9º: *Modelado HD-2D*, 3h
 ***************************
 
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_.
