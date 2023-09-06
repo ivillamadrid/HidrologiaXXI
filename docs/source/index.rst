@@ -15,6 +15,7 @@ Contenidos
    
    audiencia
    pythonpracticum
+   Rpracticum.rst
    recursos_nube
    bibliografia
 
