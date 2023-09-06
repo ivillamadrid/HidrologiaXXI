@@ -1,2 +1,2 @@
-*R* practicum
+*R* Practicum
 ==============
