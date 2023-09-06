@@ -1,4 +1,4 @@
-PP o Python Practicum
+Python Practicum
 =====================
 
 Inicialmente se introducen los conceptos generales de programación: declaración de variables, definición de valores, operadores condicionales, bucles, uso de librerias matemáticas, gráficas y entrada y salida de datos por ficheros.
