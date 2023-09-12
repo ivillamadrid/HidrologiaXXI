@@ -85,11 +85,11 @@ Días 7º-8º: *Aplicaciones UAV*, 6h
 
 * Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab. 
 
-Día 9º: *Modelado HD-2D*, 3h
-***************************
+Día 9º-10º: *Modelado HD-2D*, 6h
+********************************
 
-* Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_.
+* Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
-* Caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
+* Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*).
 
 
