@@ -31,9 +31,8 @@ Previsiblemente a partir de mitad de Septiembre de 2023, y de 30 horas de duraci
 Organización de las sesiones
 -----------------------------
 
-Días 1º y 2º: *Python + R*, 6h
-******************************
-
+Primer bloque: *Python + R*, 6h
+*******************************
 
 * Nociones básicas de programación, uso de lenguaje Python para las EDP seleccionadas.
 * Manipulación de series temporales con Python, utilidades para cambio de formato e intervalos de tiempo. 
@@ -45,8 +44,32 @@ Días 1º y 2º: *Python + R*, 6h
   :align: center 
 
 
-Días 3º-6º: *GEE*, 12h
-**********************
+Segundo bloque: *Aplicaciones UAV*, 9h
+***************************************
+
+* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
+
+* Software `Open-Drone-Map`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes, y relevamiento 3D del puente de avenida Pellegrini sobre el Arroyo Azul.
+
+.. _Open-Drone-Map: https://www.opendronemap.org/
+
+* Introducción a LSPIV para medir el campo de velocidad de la superficie libre de un fluído.
+
+* Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab. 
+
+* Visita de campo para comparar diversas formas de aforo: mecánicos frente a sensores remotos.
+
+
+Tercer bloque: *Modelado HD-2D*, 9h
+***********************************
+
+* Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
+
+* Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*).
+
+
+Cuarto bloque (pospuesto a 2024): *GEE*, 20h
+********************************************
 * Introducción a Google-Earth-Engine.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios en un área de interés.
@@ -70,26 +93,3 @@ Días 3º-6º: *GEE*, 12h
 .. _GPM-IMERG: https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V06 
 
 * Seguimiento de sequías con el índice *NDVI* (Normalized Difference Vegetation Index).
-
-
-Días 7º-8º: *Aplicaciones UAV*, 6h
-**********************************
-
-* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
-
-* Software `Open-Drone-Map`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes, y relevamiento 3D del puente de avenida Pellegrini sobre el Arroyo Azul.
-
-.. _Open-Drone-Map: https://www.opendronemap.org/
-
-* Introducción a LSPIV para medir el campo de velocidad de la superficie libre de un fluído.
-
-* Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab. 
-
-Días 9º-10º: *Modelado HD-2D*, 6h
-*********************************
-
-* Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
-
-* Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*).
-
-
