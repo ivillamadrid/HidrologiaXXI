@@ -57,7 +57,7 @@ Segundo bloque: *Aplicaciones UAV*, 9h
 
 * Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab. 
 
-* Visita de campo para comparar diversas formas de aforo: mecánicos frente a sensores remotos.
+* Salida de campo para comparar diversas formas de aforo: mecánico frente a sensores remotos.
 
 
 Tercer bloque: *Modelado HD-2D*, 9h
