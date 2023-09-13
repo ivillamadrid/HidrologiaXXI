@@ -26,7 +26,7 @@ y `JavaScript de Google-Earth-Engine <https://developers.google.com/earth-engine
 
 Inicio y duración
 -----------------
-Previsiblemente a partir de mitad de Septiembre de 2023, y de 30 horas de duración.
+Previsiblemente a partir de Octubre de 2023, y de 30 horas de duración.
 
 Organización de las sesiones
 -----------------------------
@@ -68,7 +68,7 @@ Tercer bloque: *Modelado HD-2D*, 9h
 * Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*).
 
 
-Cuarto bloque (pospuesto a 2024): *GEE*, 20h
+Cuarto bloque (pospuesto a 2024): *GEE*, 30h
 ********************************************
 * Introducción a Google-Earth-Engine.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
