@@ -28,26 +28,39 @@ Inicio y duración
 -----------------
 Previsiblemente a partir de Octubre de 2023, y de 30 horas de duración.
 
+Docentes
+--------
+
 Organización de las sesiones
 -----------------------------
 
-Primer bloque,  10 y 12 Octubre: *Python + R*
-*********************************************
+Primer bloque,  10 Octubre: *Python*
+************************************
 
 * Presentación del curso: alcances, objetivos, estructura de cursado y trabajo en clases, condiciones de evaluación. 
-* Nociones básicas de programación, uso de lenguaje Python para las EDP seleccionadas. 
-* Caso particular: procesado de datos Meteorológicos.
-* Manipulación de series temporales con Python, utilidades para cambio de formato e intervalos de tiempo.
-* Correlación, tendencias, estacionalidad y predicción de series temporales con R.
+* Nociones básicas de programación, uso de lenguaje *Python* para la ED de balance vertical de una laguna. Revisión de dimensionalidad espacial en modelización hidrológica. Ideas para la extensión a la llanura pampeana.
+* Presentación del caso particular: procesado de datos Meteorológicos.
+* Manipulación de series temporales con *Python*, utilidades para cambio de formato e intervalos de tiempo.
 
 .. image:: ./Pics/Example_Diff2D.PNG
   :width: 300
   :alt: Example_Diff2D
   :align: center 
 
-Software:
+Software y Datos compartidos, enlaces de descarga:
 `Python <https://www.python.org/downloads/>`_
-`GNUPLOT <https://www.python.org/downloads/>`_
+`GNUPLOT <http://www.gnuplot.info/download.html>`_
+`DATOS `
+
+Primer bloque,  12 Octubre: *R*
+*******************************
+
+* Resolución del caso particular: procesado de datos Meteorológicos.
+* Correlación, tendencias, estacionalidad y predicción de series temporales con *R*.
+
+Software y Datos compartidos, enlaces de descarga:
+`R <https://cran.r-project.org/mirrors.html>`_
+`DATOS `
 
 Segundo bloque: *Aplicaciones UAV*, 9h
 ***************************************
