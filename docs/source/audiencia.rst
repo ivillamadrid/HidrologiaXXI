@@ -31,11 +31,13 @@ Previsiblemente a partir de Octubre de 2023, y de 30 horas de duración.
 Organización de las sesiones
 -----------------------------
 
-Primer bloque: *Python + R*, 6h
-*******************************
+Primer bloque,  10 y 12 Octubre: *Python + R*
+*********************************************
 
-* Nociones básicas de programación, uso de lenguaje Python para las EDP seleccionadas.
-* Manipulación de series temporales con Python, utilidades para cambio de formato e intervalos de tiempo. 
+* Presentación del curso: alcances, objetivos, estructura de cursado y trabajo en clases, condiciones de evaluación. 
+* Nociones básicas de programación, uso de lenguaje Python para las EDP seleccionadas. 
+* Caso particular: procesado de datos Meteorológicos.
+* Manipulación de series temporales con Python, utilidades para cambio de formato e intervalos de tiempo.
 * Correlación, tendencias, estacionalidad y predicción de series temporales con R.
 
 .. image:: ./Pics/Example_Diff2D.PNG
@@ -43,6 +45,9 @@ Primer bloque: *Python + R*, 6h
   :alt: Example_Diff2D
   :align: center 
 
+Software:
+`Python <https://www.python.org/downloads/>`_
+`GNUPLOT <https://www.python.org/downloads/>`_
 
 Segundo bloque: *Aplicaciones UAV*, 9h
 ***************************************
