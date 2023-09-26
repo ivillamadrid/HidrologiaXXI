@@ -48,10 +48,7 @@ Sesiones primer bloque
   :alt: Example_Diff2D
   :align: center 
 
-Software y Datos compartidos, enlaces de descarga:
-`Python <https://www.python.org/downloads/>`_
-`GNUPLOT <http://www.gnuplot.info/download.html>`_
-`DATOS `
+
 
 12 Octubre: *R*
 ***************
@@ -59,9 +56,7 @@ Software y Datos compartidos, enlaces de descarga:
 * Resolución del caso particular: procesado de datos Meteorológicos.
 * Correlación, tendencias, estacionalidad y predicción de series temporales con *R*.
 
-Software y Datos compartidos, enlaces de descarga:
-`R <https://cran.r-project.org/mirrors.html>`_
-`DATOS `
+
 
 Sesiones segundo bloque
 ------------------------
@@ -88,6 +83,19 @@ Sesiones tercer bloque
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
 * Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*).
+
+
+Enlaces del software de descarga y Datos compartidos
+*****************************************************
+
+`Python <https://www.python.org/downloads/>`_
+`GNUPLOT <http://www.gnuplot.info/download.html>`_
+`R <https://cran.r-project.org/mirrors.html>`_
+`Open-Drone-Map <https://www.opendronemap.org>`_
+`RIVeR <https://riverdischarge.blogspot.com>`_
+`HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_
+
+`DATOS `
 
 
 Cuarto bloque (pospuesto a 2024): *GEE*, 30h
