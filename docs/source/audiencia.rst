@@ -99,7 +99,7 @@ Enlaces del software de descarga y Datos compartidos
 
 
 Cuarto bloque (pospuesto a 2024): *GEE*, 30h
-********************************************
+--------------------------------------------
 * Introducción a Google-Earth-Engine.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios en un área de interés.
