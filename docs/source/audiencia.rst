@@ -86,7 +86,7 @@ Sesiones tercer bloque
 
 
 Enlaces del software de descarga y Datos compartidos
-*****************************************************
+----------------------------------------------------
 
 `Python <https://www.python.org/downloads/>`_
 `GNUPLOT <http://www.gnuplot.info/download.html>`_
