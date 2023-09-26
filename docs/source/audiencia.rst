@@ -26,16 +26,17 @@ y `JavaScript de Google-Earth-Engine <https://developers.google.com/earth-engine
 
 Inicio y duración
 -----------------
-Previsiblemente a partir de Octubre de 2023, y de 30 horas de duración.
+Comienza el 10 de Octubre de 2023, se imparte en sesiones de tres horas, dos por semana (Martes y Jueves), con un total de 30 horas de duración, en modalidad híbrida presencial y remota.
 
 Docentes
---------
+---------
+Ignacio Villanueva y Ailé Golin.
 
-Organización de las sesiones
------------------------------
+Sesiones primer bloque
+----------------------
 
-Primer bloque,  10 Octubre: *Python*
-************************************
+10 Octubre: *Python*
+********************
 
 * Presentación del curso: alcances, objetivos, estructura de cursado y trabajo en clases, condiciones de evaluación. 
 * Nociones básicas de programación, uso de lenguaje *Python* para la ED de balance vertical de una laguna. Revisión de dimensionalidad espacial en modelización hidrológica. Ideas para la extensión a la llanura pampeana.
@@ -52,8 +53,8 @@ Software y Datos compartidos, enlaces de descarga:
 `GNUPLOT <http://www.gnuplot.info/download.html>`_
 `DATOS `
 
-Primer bloque,  12 Octubre: *R*
-*******************************
+12 Octubre: *R*
+***************
 
 * Resolución del caso particular: procesado de datos Meteorológicos.
 * Correlación, tendencias, estacionalidad y predicción de series temporales con *R*.
@@ -62,8 +63,10 @@ Software y Datos compartidos, enlaces de descarga:
 `R <https://cran.r-project.org/mirrors.html>`_
 `DATOS `
 
-Segundo bloque: *Aplicaciones UAV*, 9h
-***************************************
+Sesiones segundo bloque
+------------------------
+17, 19 y 24 Octubre: *Aplicaciones UAV*, 9h
+******************************************
 
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
 
@@ -77,9 +80,10 @@ Segundo bloque: *Aplicaciones UAV*, 9h
 
 * Salida de campo para comparar diversas formas de aforo: mecánico frente a sensores remotos.
 
-
-Tercer bloque: *Modelado HD-2D*, 9h
-***********************************
+Sesiones tercer bloque
+----------------------
+26 y 31 Octubre, 2 Noviembre: *Modelado HD-2D*, 9h
+**************************************************
 
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
