@@ -48,14 +48,14 @@ Sesiones primer bloque
 .. _GFS: https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25
 
 .. image:: ./Pics/DJI_0484.JPG
-  :width: 300
+  :width: 280
   :alt: Finca_Elissondo_Ups
   :align: left 
 
 .. image:: ./Pics/DJI_0508.JPG
-  :width: 300
+  :width: 280
   :alt: Finca_Elissondo_Mid
-  :align: right
+  :align: center
 
 
 12 Octubre: *R*
