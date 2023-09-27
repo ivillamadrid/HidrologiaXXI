@@ -66,6 +66,7 @@ Sesiones primer bloque
 * Iniciación básica al entorno y lenguaje *R*.
 * Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
 * Correlación, tendencias, estacionalidad y predicción de series temporales con *R*.
+* Revisión de dudas, comentarios y preparación para la siguiente semana.
 
 
 
