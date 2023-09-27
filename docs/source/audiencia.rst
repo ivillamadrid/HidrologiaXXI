@@ -30,7 +30,7 @@ Comienza el 10 de Octubre de 2023, se imparte en sesiones de tres horas, dos por
 
 Docentes
 ---------
-Ignacio Villanueva y Ailé Golin.
+`Ignacio Villanueva <ivillanueva@ihlla.org.ar>`_ y `Ailé Golin <agolin@ihlla.org.ar>`_.
 
 Sesiones primer bloque
 ----------------------
