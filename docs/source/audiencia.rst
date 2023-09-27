@@ -47,9 +47,9 @@ Sesiones primer bloque
 
 .. _GFS: https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25
 
-.. image:: ./Pics/Example_Diff2D.PNG
+.. image:: ./Pics/DJI_0484.JPG
   :width: 300
-  :alt: Example_Diff2D
+  :alt: Finca_Elissondo
   :align: center 
 
 
