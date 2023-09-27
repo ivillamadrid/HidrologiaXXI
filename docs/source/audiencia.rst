@@ -42,7 +42,7 @@ Sesiones primer bloque
 * Problema de partida: inundaciones en la llanura pampeana.
 * Nociones básicas de programación, uso de lenguaje *Python* para la ED de balance vertical de una laguna.
 * Revisión de dimensionalidad espacial en modelización hidrológica. 
-* Presentación del caso particular: procesado de datos Meteorológicos.
+* Presentación del caso particular de `Martín Blanco <martinblanco@ihlla.org.ar>`_: procesado de datos Hidro-Meteorológicos GFS.
 * Manipulación de series temporales con *Python*, utilidades para cambio de formato e intervalos de tiempo.
 
 .. image:: ./Pics/Example_Diff2D.PNG
