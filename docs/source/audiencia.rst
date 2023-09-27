@@ -39,7 +39,9 @@ Sesiones primer bloque
 ********************
 
 * Presentación del curso: alcances, objetivos, estructura de cursado y trabajo en clases, condiciones de evaluación. 
-* Nociones básicas de programación, uso de lenguaje *Python* para la ED de balance vertical de una laguna. Revisión de dimensionalidad espacial en modelización hidrológica. Ideas para la extensión a la llanura pampeana.
+* Problema de partida: inundaciones en la llanura pampeana.
+* Nociones básicas de programación, uso de lenguaje *Python* para la ED de balance vertical de una laguna.
+* Revisión de dimensionalidad espacial en modelización hidrológica. 
 * Presentación del caso particular: procesado de datos Meteorológicos.
 * Manipulación de series temporales con *Python*, utilidades para cambio de formato e intervalos de tiempo.
 
@@ -98,8 +100,8 @@ Enlaces del software de descarga y Datos compartidos
 `DATOS `
 
 
-Cuarto bloque (pospuesto a 2024): *GEE*, 30h
---------------------------------------------
+Cuarto bloque (pospuesto a 2024): *Google-Earth-Engine*, 30h
+-------------------------------------------------------------
 * Introducción a Google-Earth-Engine.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios en un área de interés.
