@@ -58,10 +58,13 @@ Sesiones primer bloque
   :align: center
 
 
+
 12 Octubre: *R*
 ***************
 
-* Resolución del caso particular: procesado de datos Meteorológicos.
+* Resolución del caso particular: procesado de datos Hidro-Meteorológicos GFS.
+* Iniciación básica al entorno y lenguaje *R*.
+* Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
 * Correlación, tendencias, estacionalidad y predicción de series temporales con *R*.
 
 
@@ -73,9 +76,7 @@ Sesiones segundo bloque
 
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
 
-* Software `Open-Drone-Map`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes, y relevamiento 3D del puente de avenida Pellegrini sobre el Arroyo Azul.
-
-.. _Open-Drone-Map: https://www.opendronemap.org/
+* Software `Open-Drone-Map <https://www.opendronemap.org>`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes, y relevamiento 3D del puente de avenida Pellegrini sobre el Arroyo Azul.
 
 * Introducción a LSPIV para medir el campo de velocidad de la superficie libre de un fluído.
 
