@@ -49,9 +49,13 @@ Sesiones primer bloque
 
 .. image:: ./Pics/DJI_0484.JPG
   :width: 300
-  :alt: Finca_Elissondo
-  :align: center 
+  :alt: Finca_Elissondo_Ups
+  :align: left 
 
+.. image:: ./Pics/DJI_0508.JPG
+  :width: 300
+  :alt: Finca_Elissondo_Mid
+  :align: right
 
 
 12 Octubre: *R*
