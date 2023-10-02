@@ -95,7 +95,7 @@ Sesiones tercer bloque
 
 * Caso particular del Atuel-Salado con software open-source, Tesis Doctoral de `Ramiro Páez <ramiropaezcampos@hotmail.com>`_.
 
-* Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*), presentado por M.M..
+* Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*), presentado por `Matías Maino <matiasmaino@ihlla.org.ar>`_.
 
 
 Enlaces del software de descarga y Datos compartidos
