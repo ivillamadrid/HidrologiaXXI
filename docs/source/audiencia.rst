@@ -62,6 +62,7 @@ Sesiones primer bloque
 12 Octubre: *R*
 ***************
 
+* Código 2D onda difusiva explícito, extensión a GPU.
 * Resolución del caso particular: procesado de datos Hidro-Meteorológicos GFS.
 * Iniciación básica al entorno y lenguaje *R*.
 * Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
@@ -91,6 +92,8 @@ Sesiones tercer bloque
 **************************************************
 
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
+
+* Caso particular del Atuel-Salado con software open-source, Tesis Doctoral de `Ramiro Páez <ramiropaezcampos@hotmail.com>`_.
 
 * Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*).
 
