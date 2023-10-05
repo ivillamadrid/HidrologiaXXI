@@ -43,6 +43,7 @@ Sesiones primer bloque
 * Nociones básicas de programación, uso de lenguaje *Python* para la ED de balance vertical de una laguna.
 * Revisión de dimensionalidad espacial en modelización hidrológica. 
 * Presentación del caso particular de `Martín Blanco <martinblanco@ihlla.org.ar>`_: procesado de datos Hidro-Meteorológicos `GFS`_.
+* Habilitación de Windows-Subsystem para Linux con Ubuntu, para ejecutar transferencia de ficheros con *wget*, y códigos de cálculo como *SWAT* y *Lisflood-FP*.
 * Manipulación de series temporales con *Python*, utilidades para cambio de formato e intervalos de tiempo.
 
 .. _GFS: https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25
