@@ -26,7 +26,7 @@ y `JavaScript de Google-Earth-Engine <https://developers.google.com/earth-engine
 
 Inicio y duración
 -----------------
-Comienza el 10 de Octubre de 2023, se imparte en sesiones de tres horas, dos por semana (Martes y Jueves), con un total de 30 horas de duración, en modalidad híbrida presencial y remota.
+Comienza el 10 de Octubre de 2023, 10:00 am (UTC-3), se imparte en sesiones de tres horas, dos por semana (Martes y Jueves), con un total de 30 horas de duración, en modalidad híbrida presencial y remota.
 
 Docentes
 ---------
