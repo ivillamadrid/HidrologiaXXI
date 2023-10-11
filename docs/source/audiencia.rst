@@ -74,18 +74,12 @@ Sesiones primer bloque
 * Ampliación del código Python de balance en la vertical para una laguna. Realización del informe.
 
 .. * Magnitudes involucradas en una rotura de presa ideal.
-
-
-
-
-* Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
-
 .. * Código 2D onda difusiva explícito, extensión a GPU.
 .. * Manipulación de series temporales con *Python*, utilidades para cambio de formato e intervalos de tiempo.
 .. * Iniciación básica al entorno y lenguaje *R*.
 .. * Correlación, tendencias, estacionalidad y predicción de series temporales con *R*.
 
-* Revisión de dudas, comentarios y preparación para la siguiente semana. Primera ejecución con Open-Drone-Map.
+* Revisión de dudas, comentarios y preparación para la siguiente semana. Verificación de la primera ejecución con Open-Drone-Map.
 
 
 
@@ -94,9 +88,15 @@ Sesiones segundo bloque
 17, 19 y 24 Octubre: *Aplicaciones UAV*, 9h
 ******************************************
 
+
+
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
 
 * Software `Open-Drone-Map <https://www.opendronemap.org>`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes, y relevamiento 3D del puente de avenida Pellegrini sobre el Arroyo Azul.
+
+* Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
+
+* Presentación del caso particular de `Ninoska Briceño <nbriceno@ihlla.org.ar>`_: balance en una cubeta.
 
 * Introducción a LSPIV para medir el campo de velocidad de la superficie libre de un fluído.
 
