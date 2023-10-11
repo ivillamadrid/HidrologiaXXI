@@ -41,10 +41,10 @@ Sesiones primer bloque
 * Presentación del curso: alcances, objetivos, estructura de cursado y trabajo en clases, condiciones de evaluación. 
 * Problema de partida: inundaciones en la llanura pampeana.
 * Nociones básicas de programación, uso de lenguaje *Python* para la ED de balance vertical de una laguna.
-* Revisión de dimensionalidad espacial en modelización hidrológica. 
+ 
 * Presentación del caso particular de `Martín Blanco <martinblanco@ihlla.org.ar>`_: procesado de datos Hidro-Meteorológicos `GFS`_.
 * Habilitación de Windows-Subsystem para Linux con Ubuntu, para ejecutar transferencia de ficheros con *wget*, y códigos de cálculo como *SWAT* y *Lisflood-FP*.
-* Manipulación de series temporales con *Python*, utilidades para cambio de formato e intervalos de tiempo.
+
 
 .. _GFS: https://developers.google.com/earth-engine/datasets/catalog/NOAA_GFS0P25
 
@@ -60,15 +60,30 @@ Sesiones primer bloque
 
 
 
-12 Octubre: *R*
-***************
+12 Octubre: *Python ampliado*
+*****************************
 
-* Código 2D onda difusiva explícito, extensión a GPU.
+* Verificación del Set-Up de WSL con Ubuntu. `Solución Powershell 7.3.8 <https://github.com/PowerShell/PowerShell/releases>`_
+
 * Resolución del caso particular: procesado de datos Hidro-Meteorológicos GFS.
-* Iniciación básica al entorno y lenguaje *R*.
+
+* Ampliación del código Python de balance en la vertical para una laguna. Realización del informe.
+
+* Descarga de `Open-Drone-Map v3.2.1 <https://github.com/OpenDroneMap/ODM>`_ y ficheros de imágenes de testeo, lago Güemes.
+
+* Magnitudes involucradas en una rotura de presa ideal.
+
+* Revisión de dimensionalidad espacial en modelización hidrológica.
+
+
 * Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
-* Correlación, tendencias, estacionalidad y predicción de series temporales con *R*.
-* Revisión de dudas, comentarios y preparación para la siguiente semana.
+
+.. * Código 2D onda difusiva explícito, extensión a GPU.
+.. * Manipulación de series temporales con *Python*, utilidades para cambio de formato e intervalos de tiempo.
+.. * Iniciación básica al entorno y lenguaje *R*.
+.. * Correlación, tendencias, estacionalidad y predicción de series temporales con *R*.
+
+* Revisión de dudas, comentarios y preparación para la siguiente semana. Primera ejecución con Open-Drone-Map.
 
 
 
@@ -96,7 +111,7 @@ Sesiones tercer bloque
 
 * Caso particular del Atuel-Salado con software open-source, Tesis Doctoral de `Ramiro Páez <ramiropaezcampos@hotmail.com>`_.
 
-* Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*), presentado por `Matías Maino <matiasmaino@ihlla.org.ar>`_.
+* Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*), presentado por `Matías Maino <matiasmaino@ihlla.org.ar>`_ y `Daniela Schmidt <danielainesschmidt@gmail.com>`_.
 
 
 Enlaces del software de descarga y Datos compartidos
