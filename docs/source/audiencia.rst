@@ -67,9 +67,9 @@ Sesiones primer bloque
 
 * Resolución del caso particular: procesado de datos Hidro-Meteorológicos GFS.
 
-* Ampliación del código Python de balance en la vertical para una laguna. Realización del informe.
-
 * Descarga de `Open-Drone-Map v3.2.1 <https://github.com/OpenDroneMap/ODM>`_ y ficheros de imágenes de testeo, lago Güemes.
+
+* Ampliación del código Python de balance en la vertical para una laguna. Realización del informe.
 
 * Magnitudes involucradas en una rotura de presa ideal.
 
