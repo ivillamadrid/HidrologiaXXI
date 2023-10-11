@@ -65,15 +65,17 @@ Sesiones primer bloque
 
 * Verificación del Set-Up de WSL con Ubuntu. `Solución Powershell 7.3.8 <https://github.com/PowerShell/PowerShell/releases>`_
 
+* Revisión de dimensionalidad espacial en modelización hidrológica.
+
 * Resolución del caso particular: procesado de datos Hidro-Meteorológicos GFS.
 
 * Descarga de `Open-Drone-Map v3.2.1 <https://github.com/OpenDroneMap/ODM>`_ y ficheros de imágenes de testeo, lago Güemes.
 
 * Ampliación del código Python de balance en la vertical para una laguna. Realización del informe.
 
-* Magnitudes involucradas en una rotura de presa ideal.
+.. * Magnitudes involucradas en una rotura de presa ideal.
 
-* Revisión de dimensionalidad espacial en modelización hidrológica.
+
 
 
 * Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
