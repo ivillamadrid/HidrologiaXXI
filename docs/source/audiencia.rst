@@ -65,7 +65,7 @@ Sesiones primer bloque
 
 * Verificación del Set-Up de WSL con Ubuntu. `Solución Powershell 7.3.8 <https://github.com/PowerShell/PowerShell/releases>`_
 
-* Revisión de dimensionalidad espacial en modelización hidrológica.
+
 
 * Resolución del caso particular: procesado de datos Hidro-Meteorológicos GFS.
 
@@ -73,6 +73,7 @@ Sesiones primer bloque
 
 * Ampliación del código Python de balance en la vertical para una laguna. Realización del informe.
 
+.. * Revisión de dimensionalidad espacial en modelización hidrológica.
 .. * Magnitudes involucradas en una rotura de presa ideal.
 .. * Código 2D onda difusiva explícito, extensión a GPU.
 .. * Manipulación de series temporales con *Python*, utilidades para cambio de formato e intervalos de tiempo.
