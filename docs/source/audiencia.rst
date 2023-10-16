@@ -98,7 +98,7 @@ Sesiones segundo bloque
 
 * Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
 
-* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion y explotación esencial
+* Teoría básica de Structure-From-Motion y aspectos prácticos de explotación con *ODM*.
 
 * Sensibilidad del DTM a los parámetros del filtro *SMRF* de *ODM*.
 
