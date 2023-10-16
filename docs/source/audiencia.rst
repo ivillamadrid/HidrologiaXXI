@@ -90,17 +90,17 @@ Sesiones segundo bloque
 *********************************
 * Descarga de QGIS en caso de no tener GIS, descarga de imágenes del Puente de Pellegrini.
 
-* Revisión de la salida con opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes.
+* Revisión de la salida de *ODM* con opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes.
 
-* Ejecución con ODM del relevamiento 3D del Puente de Pellegrini con pixel de un metro para DSM y DTM.
+* Ejecución con *ODM* del relevamiento 3D del Puente de Pellegrini con pixel de un metro para DSM y DTM.
 
 * Ajuste de curvas por mínimos cuadrados con *R*.
 
 * Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
 
-* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
+* Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion y explotación esencial
 
-* Software `Open-Drone-Map <https://www.opendronemap.org>`_, práctica con los ejemplos:
+* Sensibilidad del DTM a los parámetros del filtro *SMRF* de *ODM*.
 
 
 19 de Octubre y 24 Octubre: *Salida Campo y videos LSPIV*
