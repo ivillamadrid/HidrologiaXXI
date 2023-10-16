@@ -86,16 +86,20 @@ Sesiones primer bloque
 
 Sesiones segundo bloque
 ------------------------
-17, 19 y 24 Octubre: *Aplicaciones UAV*, 9h
-******************************************
+17 de Octubre: *Open-Drone-Map*
+*********************************
+* Ajuste de curvas por mínimos cuadrados con *R*.
 
-
+* Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
 
 * Uso de drones para obtener Modelos Digitales de Elevación para determinar zonas inundables. Teoría básica de Structure-From-Motion. Filtrado del Modelo Digital de Superficie.
 
 * Software `Open-Drone-Map <https://www.opendronemap.org>`_, práctica con los ejemplos: opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes, y relevamiento 3D del puente de avenida Pellegrini sobre el Arroyo Azul.
 
-* Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
+
+
+19 de Octubre y 24 Octubre: *Salida Campo y videos LSPIV*
+*********************************************************
 
 * Presentación del caso particular de `Ninoska Briceño <nbriceno@ihlla.org.ar>`_: balance en una cubeta.
 
