@@ -88,7 +88,7 @@ Sesiones segundo bloque
 ------------------------
 17 de Octubre: *Open-Drone-Map*
 *********************************
-* Descarga e Instalación de QGIS en caso de no tener GIS, descarga de imágenes del Puente de Pellegrini.
+* Descarga e instalación de QGIS en caso de no tener GIS, descarga de imágenes del Puente de Pellegrini.
 
 * Revisión de la salida de *ODM* con opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes.
 
@@ -100,7 +100,7 @@ Sesiones segundo bloque
 
 * Teoría básica de Structure-From-Motion y aspectos prácticos de explotación con *ODM*.
 
-* Sensibilidad del DTM a los parámetros del filtro *SMRF* de *ODM*.
+* Sensibilidad del DTM a los parámetros de calidad y de filtro *SMRF* de *ODM*.
 
 
 19 de Octubre y 24 Octubre: *Salida Campo y videos LSPIV*
