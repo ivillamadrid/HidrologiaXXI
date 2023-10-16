@@ -134,6 +134,7 @@ Enlaces del software de descarga y Datos compartidos
 `R <https://cran.r-project.org/mirrors.html>`_
 `Ubuntu Windows-Subsystem for Linux <https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview>`_
 `Open-Drone-Map <https://www.opendronemap.org>`_
+`QGIS <https://qgis.org/es/site/forusers/download.html>`_
 `RIVeR <https://riverdischarge.blogspot.com>`_
 `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_
 
