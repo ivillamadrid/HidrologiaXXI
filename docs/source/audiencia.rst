@@ -88,7 +88,7 @@ Sesiones segundo bloque
 ------------------------
 17 de Octubre: *Open-Drone-Map*
 *********************************
-* Descarga de QGIS en caso de no tener GIS, descarga de imágenes del Puente de Pellegrini.
+* Descarga e Instalación de QGIS en caso de no tener GIS, descarga de imágenes del Puente de Pellegrini.
 
 * Revisión de la salida de *ODM* con opción *fast-orthophoto* para georeferenciar en 2D un cuerpo de agua como el lago Güemes.
 
