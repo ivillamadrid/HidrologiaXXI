@@ -94,23 +94,28 @@ Sesiones segundo bloque
 
 * Ejecución con *ODM* del relevamiento 3D del Puente de Pellegrini con pixel de un metro para DSM y DTM.
 
-* Ajuste de curvas por mínimos cuadrados con *R*.
-
 * Presentación del caso particular de `Camila Gregorini <cgregorini@ihlla.org.ar>`_: ploteando magnitudes adimensionales.
-
-* Teoría básica de Structure-From-Motion y aspectos prácticos de explotación con *ODM*.
 
 * Sensibilidad del DTM a los parámetros de calidad y de filtro *SMRF* de *ODM*.
 
 
-19 de Octubre y 24 Octubre: *Salida Campo y videos LSPIV*
-*********************************************************
+19 de Octubre:  procesado *LSPIV*
+*********************************
+* Teoría básica de Structure-From-Motion y revisión de los procesados previos con *ODM*.
 
 * Presentación del caso particular de `Ninoska Briceño <nbriceno@ihlla.org.ar>`_: balance en una cubeta.
 
+* Ajuste de curvas por mínimos cuadrados con *R*.
+
+
 * Introducción a LSPIV para medir el campo de velocidad de la superficie libre de un fluído.
 
-* Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab. 
+* Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab, caso puente A2.
+
+
+
+24 o 26 de Octubre: *Salida Campo*
+***********************************
 
 * Salida de campo para comparar diversas formas de aforo: mecánico frente a sensores remotos.
 
