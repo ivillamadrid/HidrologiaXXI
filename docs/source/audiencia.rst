@@ -101,7 +101,7 @@ Sesiones segundo bloque
 
 19 de Octubre:  procesado *LSPIV*
 *********************************
-* Teoría básica de Structure-From-Motion y revisión de los procesados previos con *ODM*.
+* Teoría básica de Structure-From-Motion y revisión de los procesados previos con *ODM*, análisis de nubes de puntos con `Meshlab <https://www.meshlab.net>`_
 
 * Presentación del caso particular de `Ninoska Briceño <nbriceno@ihlla.org.ar>`_: balance en una cubeta.
 
