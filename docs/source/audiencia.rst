@@ -101,6 +101,8 @@ Sesiones segundo bloque
 
 19 de Octubre:  procesado *LSPIV*
 *********************************
+* Descarga e instalación de `RIVeR <https://riverdischarge.blogspot.com>`_, con librería MATLAB runtime.
+
 * Teoría básica de Structure-From-Motion y revisión de los procesados previos con *ODM*, análisis de nubes de puntos con `Meshlab <https://www.meshlab.net>`_
 
 * Presentación del caso particular de `Ninoska Briceño <nbriceno@ihlla.org.ar>`_: balance en una cubeta.
@@ -110,7 +112,7 @@ Sesiones segundo bloque
 
 * Introducción a LSPIV para medir el campo de velocidad de la superficie libre de un fluído.
 
-* Práctica con software LSPIV `RIVeR <https://riverdischarge.blogspot.com>`_ basado en Matlab, caso puente A2.
+* Práctica con software LSPIV *RIVeR* basado en Matlab, caso puente A2.
 
 
 
