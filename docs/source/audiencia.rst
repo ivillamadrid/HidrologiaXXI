@@ -126,6 +126,8 @@ Sesiones tercer bloque
 24 y 31 Octubre, 2 Noviembre: *Modelado HD-2D*, 9h
 **************************************************
 
+* Segunda parte del procesado LSPIV con *RIVeR* para el puente A2.
+
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
 * Caso particular del Atuel-Salado con software open-source, Tesis Doctoral de `Ramiro Páez <ramiropaezcampos@hotmail.com>`_.
