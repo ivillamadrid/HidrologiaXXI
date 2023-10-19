@@ -116,14 +116,14 @@ Sesiones segundo bloque
 
 
 
-24 o 26 de Octubre: *Salida Campo*
+26 de Octubre: *Salida Campo*
 ***********************************
 
-* Salida de campo para comparar diversas formas de aforo: mecánico frente a sensores remotos.
+* Salida de campo para comparar diversas formas de aforo: mecánico frente a video con celular y drone.
 
 Sesiones tercer bloque
 ----------------------
-26 y 31 Octubre, 2 Noviembre: *Modelado HD-2D*, 9h
+24 y 31 Octubre, 2 Noviembre: *Modelado HD-2D*, 9h
 **************************************************
 
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
