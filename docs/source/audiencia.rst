@@ -134,6 +134,8 @@ Sesiones tercer bloque
 
 * Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*), presentado por `Matías Maino <matiasmaino@ihlla.org.ar>`_ y `Daniela Schmidt <danielainesschmidt@gmail.com>`_.
 
+* Dinámica del deslizamiento de masas por laderas.
+
 
 Enlaces del software de descarga y Datos compartidos
 ----------------------------------------------------
