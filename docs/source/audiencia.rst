@@ -128,6 +128,8 @@ Sesiones tercer bloque
 
 * Segunda parte del procesado LSPIV con *RIVeR* para el puente A2.
 
+* Introducción al `Flood-Mapping <https://floodmapping.readthedocs.io>`_.
+
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
 * Caso particular del Atuel-Salado con software open-source, Tesis Doctoral de `Ramiro Páez <ramiropaezcampos@hotmail.com>`_.
