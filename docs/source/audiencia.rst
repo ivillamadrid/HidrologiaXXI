@@ -123,7 +123,7 @@ Sesiones segundo bloque
 
 Sesiones tercer bloque
 ----------------------
-24 Octubre:  *Inicio modelado HD-2D*
+24 Octubre:  Inicio modelado *HD-2D*
 ************************************
 
 * Segunda parte del procesado LSPIV con *RIVeR* para el puente A2.
