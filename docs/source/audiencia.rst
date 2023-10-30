@@ -115,12 +115,6 @@ Sesiones segundo bloque
 * Práctica con software LSPIV *RIVeR* basado en Matlab, caso puente A2.
 
 
-
-26 de Octubre: *Salida Campo*
-***********************************
-
-* Salida de campo para comparar diversas formas de aforo: mecánico frente a video con celular y drone.
-
 Sesiones tercer bloque
 ----------------------
 24 Octubre:  Inicio modelado *HD-2D*
@@ -132,14 +126,19 @@ Sesiones tercer bloque
 
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
+26 de Octubre: *Salida Campo*
+***********************************
+
+* Salida de campo para comparar diversas formas de aforo: mecánico frente a video con celular y drone.
+
 31 de Octubre:
-***********
+**************
 
 * Revisión de los aforos con LSPIV en La Firmeza.
 
 * Caso particular del Atuel-Salado con software open-source, Tesis Doctoral de `Ramiro Páez <ramiropaezcampos@hotmail.com>`_.
 
-* Continuación del modelo HEC-RAS 2D de Azul básico (conservación masa, breaklines) y avanzado (SWE, CFL, modificaciones terreno, puentes, lluvia, etc.).
+* Continuación del modelo HEC-RAS 2D de Azul básico (conservación masa, breaklines) y avanzado (opciones SWE, CFL, modificaciones terreno, puentes, lluvia, etc.).
 
 2 de Noviembre:
 ***************
