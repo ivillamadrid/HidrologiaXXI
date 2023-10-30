@@ -132,12 +132,17 @@ Sesiones tercer bloque
 
 * Modelización Hidrodinámica 2D en escala urbana con las ecuaciones de Saint Venant y `HEC-RAS <https://www.hec.usace.army.mil/software/hec-ras/>`_, caso particular de Azul, Tesina de Maestría de Crysthian Sánchez. Tabla comparativa de las tecnologías involucradas.
 
-31 Octubre y 2 de Noviembre:
-****************************
+31 de Octubre:
+***********
+
+* Revisión de los aforos con LSPIV en La Firmeza.
 
 * Caso particular del Atuel-Salado con software open-source, Tesis Doctoral de `Ramiro Páez <ramiropaezcampos@hotmail.com>`_.
 
-* Casos particulares en la pampa húmeda.
+* Continuación del modelo HEC-RAS 2D de Azul básico (conservación masa, breaklines) y avanzado (SWE, CFL, modificaciones terreno, puentes, lluvia, etc.).
+
+2 de Noviembre:
+***************
 
 * Configuración de escenarios GLOF (*Glacial Lake Outburst Flood*), presentado por `Matías Maino <matiasmaino@ihlla.org.ar>`_ y `Daniela Schmidt <danielainesschmidt@gmail.com>`_:
 
