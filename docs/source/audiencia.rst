@@ -138,7 +138,7 @@ Sesiones tercer bloque
 
 * Caso particular del Atuel-Salado con software open-source, Tesis Doctoral de `Ramiro Páez <ramiropaezcampos@hotmail.com>`_.
 
-* Continuación del modelo HEC-RAS 2D de Azul básico (conservación masa, breaklines) y avanzado (opciones SWE, CFL, modificaciones terreno, puentes, lluvia, etc.).
+
 
 2 de Noviembre:
 ***************
@@ -147,6 +147,7 @@ Sesiones tercer bloque
 
  * Dinámica del deslizamiento de masas por laderas.
 
+* Continuación del modelo HEC-RAS 2D de Azul básico (conservación masa, breaklines) y avanzado (opciones SWE, CFL, modificaciones terreno, puentes, lluvia, etc.).
 
 Enlaces del software de descarga y Datos compartidos
 ----------------------------------------------------
