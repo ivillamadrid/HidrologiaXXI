@@ -31,8 +31,8 @@ Para información adicional contactar con:
 
 `Ignacio Villanueva <ivillanueva@ihlla.org.ar>`_ y `Ailé Golin <agolin@ihlla.org.ar>`_.
 
-Sesiones primer bloque
-----------------------
+Sesiones primer bloque, 6h
+--------------------------
 
 10 Octubre: *Python*
 ********************
@@ -83,8 +83,8 @@ Sesiones primer bloque
 
 
 
-Sesiones segundo bloque
-------------------------
+Sesiones segundo bloque, 6h
+---------------------------
 17 de Octubre: *Open-Drone-Map*
 *********************************
 * Descarga e instalación de QGIS en caso de no tener GIS, descarga de imágenes del Puente de Pellegrini.
@@ -114,8 +114,8 @@ Sesiones segundo bloque
 * Práctica con software LSPIV *RIVeR* basado en Matlab, caso puente A2.
 
 
-Sesiones tercer bloque
-----------------------
+Sesiones tercer bloque, 12h
+---------------------------
 24 Octubre:  Inicio modelado *HD-2D*
 ************************************
 
