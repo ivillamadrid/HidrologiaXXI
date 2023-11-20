@@ -5,31 +5,30 @@ Estudiantes de doctorado del Instituto de Hidrología de Llanuras, `IHLLA <https
 y de otros centros de investigación o universidades, no necesariamente argentinos, pero relacionados con Hidrología, Sensores Remotos, 
 Simulación Numérica de Recursos Hídricos, Evaluación de Riesgo de Desastres Naturales o Sistemas de Alerta Temprana.  
 
-Se impartirá en castellano, aunque gran parte de la documentación de soporte y links están en inglés. Todo el software empleado y los
+Se impartió en castellano, aunque gran parte de la documentación de soporte y links están en inglés. Todo el software empleado y los
 accesos a recursos en internet están en abierto.
 
-Se piensa en sesiones de 3 horas cada una,  dos por semana, en horario de oficina,  huso UTC-3.
+Se ideó en 8 sesiones de 3 horas cada una,  dos por semana, en horario de oficina,  huso UTC-3.
 
 Objetivos
 ---------
 Revisar conceptos básicos de Hidrología para introducirse en la modelización y explotación de datos con las técnicas más recientes, y adquirir autonomía para trabajar con:
 
-* Imágenes satelitales en abierto trabajando con servidores en la nube: Google-Earth-Engine.
-
 * Uso de librerías y software abierto: Python, JavaScript, R, Linux shells.
+* Balance de masa en la vertical.
+* Procesado de imágenes drone para obtener orto-fotos y modelos digitales de elevaciones.
+* Aforo de caudales con LSPIV.
+* Simulaciones hidrodinámicas 2D en entorno urbano y en glaciares.
 
-
-Requisitos
-----------
-Conocimientos básicos de Hidrología y programación, aunque se dedicarán unas horas de inmersión a `Python <https://www.python.org/>`_ 
-y `JavaScript de Google-Earth-Engine <https://developers.google.com/earth-engine/tutorials/tutorial_js_01>`_ 
 
 Inicio y duración
 -----------------
-Comienza el 10 de Octubre de 2023, 10:00 am (UTC-3), se imparte en sesiones de tres horas, dos por semana (Martes y Jueves), con un total de 30 horas de duración, en modalidad híbrida presencial y remota.
+Comenzó el 10 de Octubre de 2023, 10:00 am (UTC-3), y se impartió en sesiones de tres horas, dos por semana (Martes y Jueves), con un total de 24 horas de duración, en modalidad híbrida presencial y remota.
 
 Docentes
 ---------
+Para información adicional contactar con:
+
 `Ignacio Villanueva <ivillanueva@ihlla.org.ar>`_ y `Ailé Golin <agolin@ihlla.org.ar>`_.
 
 Sesiones primer bloque
