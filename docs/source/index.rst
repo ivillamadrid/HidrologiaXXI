@@ -1,4 +1,4 @@
-Bienvenidos al curso de posgrado "Hidrología-XXI" del `IHLLA <https://ihlla.conicet.gov.ar/>`_, Noviembre de 2023.
+Bienvenidos al curso de posgrado "Hidrología-XXI" del `IHLLA <https://ihlla.conicet.gov.ar/>`_, Octubre de 2023.
 ==================================================================================================================
 
 
