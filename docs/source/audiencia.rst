@@ -163,8 +163,8 @@ Enlaces del software de descarga y Datos compartidos
 `DATOS compartidos <https://drive.google.com/drive/folders/15ARUpgfTBoDtow_7eJFdGk0IDwPYGC-_?usp=sharing>`_
 
 
-Cuarto bloque (pospuesto a 2024): *Google-Earth-Engine*, 30h
--------------------------------------------------------------
+Cuarto bloque, programado para 2024: *Google-Earth-Engine*, 30h
+---------------------------------------------------------------
 * Introducción a Google-Earth-Engine.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: `JRC`_ y GFDB.
@@ -172,7 +172,7 @@ Cuarto bloque (pospuesto a 2024): *Google-Earth-Engine*, 30h
  * Caso particular: reservorios.
  * Clasificadores con entrenamiento no supervisados.
  * Clasificadores con entrenamiento supervisados.
- * Cruzado con MDE para calcular volúmenes de agua. Herramientas para GIWs (Geographically Isolated Wetlands), por `Qiusheng Wu`_.
+ * Cruzado con MDE para calcular volúmenes de agua. Herramientas para GIWs (Geographically Isolated Wetlands), por `Qiusheng Wu`_, en COLAB.
 
 .. _JRC: https://global-surface-water.appspot.com/
 .. _Qiusheng Wu: https://wetlands.io/#researchModal4
@@ -182,7 +182,7 @@ Cuarto bloque (pospuesto a 2024): *Google-Earth-Engine*, 30h
   :alt: Steps_World-Watch
   :align: center 
 
-  Water Detection Steps by `Donchyts, 2022 <https://doi.org/10.1038/s41598-022-17074-6>`_.
+  Water Detection Steps, en `Donchyts, 2022 <https://doi.org/10.1038/s41598-022-17074-6>`_.
  
 
 * Análisis de precipitación diaria en grilla de 0.05° con la misión satelital `CHIRPS`_, y con la misión `GPM-IMERG`_ de grilla 0.1° e intervalo de 30 minutos. Series temporales.
