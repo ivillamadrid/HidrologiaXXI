@@ -172,10 +172,11 @@ Cuarto bloque, programado para 2024: *Google-Earth-Engine*, 30h
  * Caso particular: reservorios.
  * Clasificadores con entrenamiento no supervisados.
  * Clasificadores con entrenamiento supervisados.
- * Cruzado con MDE para calcular volúmenes de agua. Herramientas para GIWs (Geographically Isolated Wetlands), por `Qiusheng Wu`_, en COLAB.
+ * Cruzado con MDE para calcular volúmenes de agua. Herramientas para GIWs (Geographically Isolated Wetlands), por `Qiusheng Wu`_, con *Python* dentro de `COLAB`_.
 
 .. _JRC: https://global-surface-water.appspot.com/
 .. _Qiusheng Wu: https://wetlands.io/#researchModal4
+.. _COLAB: https://colab.research.google.com
 
 .. figure:: ./Pics/Steps_Donchyts_2023.png
   :figwidth: 200
