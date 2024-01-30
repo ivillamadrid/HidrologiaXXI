@@ -172,7 +172,7 @@ Cuarto bloque, programado para 2024: *Google-Earth-Engine* y otros recursos en l
  * Caso particular: reservorios.
  * Clasificadores con entrenamiento no supervisados.
  * Clasificadores con entrenamiento supervisados.
- * Cruzado con MDE (`FABDEM, <https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn>`_) para calcular volúmenes de agua. Herramientas para GIWs (Geographically Isolated Wetlands), por `Qiusheng Wu`_, con *Python* dentro de `COLAB`_.
+ * Cruzado con MDE (`FABDEM <https://data.bris.ac.uk/data/dataset/s5hqmjcdj8yo2ibzi9b4ew3sn>`_) para calcular volúmenes de agua. Herramientas para GIWs (Geographically Isolated Wetlands), por `Qiusheng Wu`_, con *Python* dentro de `COLAB`_.
 
 .. _JRC: https://global-surface-water.appspot.com/
 .. _Qiusheng Wu: https://wetlands.io/#researchModal4
