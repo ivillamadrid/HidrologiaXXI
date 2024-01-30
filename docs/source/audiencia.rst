@@ -183,7 +183,7 @@ Cuarto bloque, programado para 2024: *Google-Earth-Engine*, 30h
   :alt: Steps_World-Watch
   :align: center 
 
-  Water Detection Steps, en `Donchyts, 2022 <https://doi.org/10.1038/s41598-022-17074-6>`_.
+  Water Bodies Detection Steps, en `Donchyts, 2022 <https://doi.org/10.1038/s41598-022-17074-6>`_.
  
 
 * Análisis de precipitación diaria en grilla de 0.05° con la misión satelital `CHIRPS`_, y con la misión `GPM-IMERG`_ de grilla 0.1° e intervalo de 30 minutos. Series temporales.
