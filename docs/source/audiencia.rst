@@ -167,18 +167,22 @@ Cuarto bloque (pospuesto a 2024): *Google-Earth-Engine*, 30h
 -------------------------------------------------------------
 * Introducción a Google-Earth-Engine.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
- * Bases de datos globales: JRC y GFDB. Barridos anuales para detectar cambios en un área de interés.
+ * Bases de datos globales: `JRC`_ y GFDB.
  * Indice NDWI, clasificación por valor umbral, distribución de Otsu.
  * Caso particular: reservorios.
  * Clasificadores con entrenamiento no supervisados.
  * Clasificadores con entrenamiento supervisados.
- * Cruzado con MDE para calcular volúmenes de agua.
+ * Cruzado con MDE para calcular volúmenes de agua. Herramientas para GIWs (Geographically Isolated Wetlands), por `Qiusheng Wu`_.
 
-.. image:: ./Pics/Steps_Donchyts_2023.png
-  :width: 300
+.. _JRC: https://global-surface-water.appspot.com/
+.. _Qiusheng Wu: https://wetlands.io/#researchModal4
+
+.. figure:: ./Pics/Steps_Donchyts_2023.png
+  :figwidth: 200
   :alt: Steps_World-Watch
   :align: center 
 
+  Water Detection Steps by `Donchyts, 2022 <https://doi.org/10.1038/s41598-022-17074-6>`_.
  
 
 * Análisis de precipitación diaria en grilla de 0.05° con la misión satelital `CHIRPS`_, y con la misión `GPM-IMERG`_ de grilla 0.1° e intervalo de 30 minutos. Series temporales.
