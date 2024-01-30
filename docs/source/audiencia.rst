@@ -163,8 +163,8 @@ Enlaces del software de descarga y Datos compartidos
 `DATOS compartidos <https://drive.google.com/drive/folders/15ARUpgfTBoDtow_7eJFdGk0IDwPYGC-_?usp=sharing>`_
 
 
-Cuarto bloque, programado para 2024: *Google-Earth-Engine*, 30h
----------------------------------------------------------------
+Cuarto bloque, programado para 2024: *Google-Earth-Engine* y otros recursos en la nube, 30h
+-------------------------------------------------------------------------------------------
 * Introducción a Google-Earth-Engine.
 * Detección de cuerpos de agua con GEE e imágenes satelitales MSI:
  * Bases de datos globales: `JRC`_ y GFDB.
