@@ -194,5 +194,6 @@ Cuarto bloque, programado para 2024: *Google-Earth-Engine* y otros recursos en l
 
 * Seguimiento de sequías con el índice *NDVI* (Normalized Difference Vegetation Index).
 
-Quinto bloque, fecha por determinar: Hidrología con modelos *Data-Driven*.
---------------------------------------------------------------------------
+Quinto bloque, fecha por determinar: Hidrología con modelos *Data-Driven*
+-------------------------------------------------------------------------
+
