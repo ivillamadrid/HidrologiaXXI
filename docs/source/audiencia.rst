@@ -193,3 +193,6 @@ Cuarto bloque, programado para 2024: *Google-Earth-Engine* y otros recursos en l
 .. _GPM-IMERG: https://developers.google.com/earth-engine/datasets/catalog/NASA_GPM_L3_IMERG_V06 
 
 * Seguimiento de sequías con el índice *NDVI* (Normalized Difference Vegetation Index).
+
+Quinto bloque, fecha por determinar: Hidrología con modelos *Data-Driven*.
+--------------------------------------------------------------------------
