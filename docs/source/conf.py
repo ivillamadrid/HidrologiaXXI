@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Hidrología-XXI'
-copyright = '2023, IHLLA'
+copyright = '2024, IHLLA'
 author = 'ivillanueva'
 
 release = '0.1'
